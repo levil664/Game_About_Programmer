@@ -8,18 +8,20 @@ public class InventoryButton : MonoBehaviour, IPointerClickHandler
     public Animator DataKnowledgeOpen;
     public Animator LeftArrowAnimator;
     public Animator RightArrowAnimator;
-    public TakePaper TakePaper;
+
+    public display Display;
+
+    public static bool DataKnowledgeIsOpen = false;
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        if (TakePaper.WithoutPaperOpen.GetBool("WithoutPaperOpen") == true)
+        if (DataKnowledgeOpen.GetBool("DataKnowledgeOpen") == false)
         {
-            TakePaper.WithPaperOpen.SetBool("WithPaperOpen", false);
-            TakePaper.WithoutPaperOpen.SetBool("WithoutPaperOpen", false);
+            DataKnowledgeOpen.SetBool("DataKnowledgeOpen", true);
+            LeftArrowAnimator.SetBool("DataKnowledgeOpen", true);
+            RightArrowAnimator.SetBool("DataKnowledgeOpen", true);
+            DataKnowledgeIsOpen = true;
         }
-        DataKnowledgeOpen.SetBool("DataKnowledgeOpen", true);
-        LeftArrowAnimator.SetBool("DataKnowledgeOpen", true);
-        RightArrowAnimator.SetBool("DataKnowledgeOpen", true);
     }
 
     void Update()
@@ -29,6 +31,7 @@ public class InventoryButton : MonoBehaviour, IPointerClickHandler
             DataKnowledgeOpen.SetBool("DataKnowledgeOpen", false);
             LeftArrowAnimator.SetBool("DataKnowledgeOpen", false);
             RightArrowAnimator.SetBool("DataKnowledgeOpen", false);
+            DataKnowledgeIsOpen = false;
         }
     }
 }

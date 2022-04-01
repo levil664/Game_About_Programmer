@@ -6,15 +6,12 @@ using UnityEngine.UIElements;
 
 public class furniture : MonoBehaviour
 {
-    public Animator WithPaperOpen;
-    public Animator WithoutPaperOpen;
+    public Animator DisplayAnimator;
 
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            WithPaperOpen.SetBool("WithPaperOpen", false);
-            WithoutPaperOpen.SetBool("WithoutPaperOpen", false);
         }
     }
 }
