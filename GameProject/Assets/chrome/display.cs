@@ -8,7 +8,7 @@ public class display : MonoBehaviour
     public Animator BrowserAnimator;
     public Animator BrowserBlikAnimator;
 
-    public bool isTaken = false;
+    private bool isTaken = false;
 
     public void Blik()
     {
