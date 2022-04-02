@@ -9,6 +9,8 @@ public class BookHint : MonoBehaviour
     public Animator BookStartAnimator;
     public Animator BookEndAnimator;
 
+    public int index;
+
     private bool isTaken = false;
 
     public void Blik()
@@ -18,10 +20,11 @@ public class BookHint : MonoBehaviour
 
     void Update()
     {
-        if (SwitchBookShelf.BookShelfIsTrigger)
+        if (SwitchBookShelf.BookShelfIsTrigger[index])
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
+                PlayerRemove.isAction = true;
                 if (BookInsideAnimator.GetBool("BookInsideOpen") == true && isTaken == false)
                 {
                     BookInsideBlikAnimator.SetBool("BookInsideBlikOpen", true);
@@ -46,6 +49,7 @@ public class BookHint : MonoBehaviour
                 BookInsideAnimator.SetBool("BookInsideOpen", false);
                 BookInsideBlikAnimator.SetBool("BookInsideBlikOpen", false);
                 BookEndAnimator.SetBool("BookEndOpen", true);
+                PlayerRemove.isAction = false;
             }
 
             else if (Input.GetKeyDown(KeyCode.Escape) && (BookEndAnimator.GetBool("BookEndOpen") == true || BookStartAnimator.GetBool("BookStartOpen") == true))
@@ -54,14 +58,8 @@ public class BookHint : MonoBehaviour
                 BookInsideBlikAnimator.SetBool("BookInsideBlikOpen", false);
                 BookStartAnimator.SetBool("BookStartOpen", false);
                 BookEndAnimator.SetBool("BookEndOpen", false);
+                PlayerRemove.isAction = false;
             }
-        }
-        else
-        {
-            BookInsideAnimator.SetBool("BookInsideOpen", false);
-            BookInsideBlikAnimator.SetBool("BookInsideBlikOpen", false);
-            BookStartAnimator.SetBool("BookStartOpen", false);
-            BookEndAnimator.SetBool("BookEndOpen", false);
         }
     }
 }
