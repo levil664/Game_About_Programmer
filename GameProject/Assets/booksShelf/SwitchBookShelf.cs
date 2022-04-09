@@ -7,7 +7,7 @@ public class SwitchBookShelf : MonoBehaviour
 {
     public Sprite[] sprites = new Sprite[2];
     
-    public static bool[] BookShelfIsTrigger = Enumerable.Repeat<bool>(false, 10).ToArray();
+    public static bool[] BookShelfIsTrigger = Enumerable.Repeat<bool>(false, 30).ToArray();
     public int index;
 
     public void OnTriggerEnter2D(Collider2D other)

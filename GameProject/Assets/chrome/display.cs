@@ -8,6 +8,8 @@ public class display : MonoBehaviour
     public Animator BrowserAnimator;
     public Animator BrowserBlikAnimator;
 
+    public int index;
+
     private bool isTaken = false;
 
     public void Blik()
@@ -17,29 +19,25 @@ public class display : MonoBehaviour
 
     void Update()
     {
-        if (switchSprites.isTrigger)
+        if (switchSpritesComputer.ChromeIsTrigger[index])
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
+                PlayerRemove.isAction = true;
                 DisplayAnimator.SetBool("displayOpen", true);
                 if (chromeIkon.browserIsOpen && isTaken == false)
                 {
                     BrowserBlikAnimator.SetBool("browserBlikOpen", true);
                     Invoke("Blik", 1.0f);
+                    CalculatePages.quantityAvailableSentences++;
                     isTaken = true;
                 }
             }
-
             if (Input.GetKeyDown(KeyCode.Escape) && chromeIkon.browserIsOpen == false)
             {
                 DisplayAnimator.SetBool("displayOpen", false);
+                PlayerRemove.isAction = false;
             }
-        }
-        else
-        {
-            DisplayAnimator.SetBool("displayOpen", false);
-            BrowserAnimator.SetBool("browserOpen", false);
-            BrowserBlikAnimator.SetBool("browserBlikOpen", false);
         }
     }
 }

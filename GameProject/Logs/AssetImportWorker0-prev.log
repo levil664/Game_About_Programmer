@@ -1,0 +1,169 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.31f1 (6b54b7616050) revision 7034039'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'ru' Physical Memory: 32694 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GitHub/Game_About_Programmer/GameProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54963
+Successfully changed project path to: D:/GitHub/Game_About_Programmer/GameProject
+D:/GitHub/Game_About_Programmer/GameProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.31f1 (6b54b7616050)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHub/Game_About_Programmer/GameProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6600 (ID=0x73ff)
+    Vendor:   
+    VRAM:     8147 MB
+    Driver:   30.0.14023.3004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56672
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001636 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.363 seconds
+Domain Reload Profiling:
+	ReloadAssembly (363ms)
+		BeginReloadAssembly (40ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (277ms)
+			LoadAssemblies (39ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (80ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (17ms)
+			SetupLoadedEditorAssemblies (116ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (36ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (51ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001811 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.682 seconds
+Domain Reload Profiling:
+	ReloadAssembly (683ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (554ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (161ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (234ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (35ms)
+				BeforeProcessingInitializeOnLoad (53ms)
+				ProcessInitializeOnLoadAttributes (128ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2360 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.7 MB.
+System memory in use after: 102.7 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2793.
+Total: 2.240400 ms (FindLiveObjects: 0.121600 ms CreateObjectMapping: 0.056000 ms MarkObjects: 1.979300 ms  DeleteObjects: 0.082900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/NULLcode Studio/CalculatePages/Prefab
+  artifactKey: Guid(07944d2fe61110d489e626b9e5acb099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NULLcode Studio/CalculatePages/Prefab using Guid(07944d2fe61110d489e626b9e5acb099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e04f4e769c4097cb7f6ae154830bdd') in 0.003559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/NULLcode Studio/CalculatePages/Scenes
+  artifactKey: Guid(749c9cec518c1d64fae446c5d853c25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NULLcode Studio/CalculatePages/Scenes using Guid(749c9cec518c1d64fae446c5d853c25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdbf9cd0ac21d8d4a7065f6d6d5c6125') in 0.004149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.217276 seconds.
+  path: Assets/NULLcode Studio/CalculatePages/Textures/book-texture.png
+  artifactKey: Guid(c5a293e97fc036f47bbf3606bc4d65c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NULLcode Studio/CalculatePages/Textures/book-texture.png using Guid(c5a293e97fc036f47bbf3606bc4d65c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7a4a7a5dcd255ed1315c18f3b6c6d25') in 0.060358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.713755 seconds.
+  path: Assets/NULLcode Studio/CalculatePages/Prefab/Canvas.prefab
+  artifactKey: Guid(0ac0564feb780474c902ad995f4e282f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NULLcode Studio/CalculatePages/Prefab/Canvas.prefab using Guid(0ac0564feb780474c902ad995f4e282f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0e1e9654f9d89b69c74333dc7fb2b7') in 0.015736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 314.515709 seconds.
+  path: Assets/NULLcode Studio/CalculatePages/Scripts/CalculatePages.cs
+  artifactKey: Guid(198c45dda734f4d408a40aff58657496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NULLcode Studio/CalculatePages/Scripts/CalculatePages.cs using Guid(198c45dda734f4d408a40aff58657496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ea1c268a684f8305d3842b8de58b66') in 0.005589 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.091735 seconds.
+  path: Assets/NULLcode Studio/CalculatePages/Scripts/CalculatePages.cs
+  artifactKey: Guid(198c45dda734f4d408a40aff58657496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NULLcode Studio/CalculatePages/Scripts/CalculatePages.cs using Guid(198c45dda734f4d408a40aff58657496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9789c28f32f8aad5bbffa0cfc47115c6') in 0.001489 seconds 

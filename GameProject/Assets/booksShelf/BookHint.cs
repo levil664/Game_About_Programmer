@@ -29,6 +29,7 @@ public class BookHint : MonoBehaviour
                 {
                     BookInsideBlikAnimator.SetBool("BookInsideBlikOpen", true);
                     Invoke("Blik", 1.0f);
+                    CalculatePages.quantityAvailableSentences++;
                     isTaken = true;
                 }
 
