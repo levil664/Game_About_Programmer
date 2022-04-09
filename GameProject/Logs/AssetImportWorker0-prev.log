@@ -1,0 +1,417 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.31f1 (6b54b7616050) revision 7034039'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.10240) 64bit Professional' Language: 'ru' Physical Memory: 8134 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/GitHub/Game_About_Programmer/GameProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60043
+Successfully changed project path to: E:/GitHub/Game_About_Programmer/GameProject
+E:/GitHub/Game_About_Programmer/GameProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 228.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.31f1 (6b54b7616050)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/GitHub/Game_About_Programmer/GameProject/Assets
+GfxDevice: creating device client; threaded=0
+d3d11: QueryInterface(IDXGIFactory5) failed (80004002).
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 720 (ID=0x1288)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6172
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56120
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.033688 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 202.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.421 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3421ms)
+		BeginReloadAssembly (617ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (2518ms)
+			LoadAssemblies (615ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (530ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (119ms)
+			SetupLoadedEditorAssemblies (1481ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (42ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (203ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (1103ms)
+				ProcessInitializeOnLoadMethodAttributes (83ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.116395 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000008721620E40 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000088FE08BC20 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008720F2E480 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000088FE3062D0 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008721645A50 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008720EC2690 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008720EC2690 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000000872128F220 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000000872128F220 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000087215C2010 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000087215C2010 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000087215F1820 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008720F2E480 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000087215F1820 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008721B02C30 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000088FE595430 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000087215244D0 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008721B02C30 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000088FE9FD140 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008720ED78A0 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000088FE9FD140 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008720884010 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008720F2E480 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000088FEBE2C20 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008721B49C30 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008721146640 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008720E88740 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000000872119E020 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000087208B9E20 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008721E1C220 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008722445040 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000000872128F220 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000008720F2E480 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000087211C6630 doesn't match image E:\GitHub\Game_About_Programmer\GameProject\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 152.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.932 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4934ms)
+		BeginReloadAssembly (403ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (4384ms)
+			LoadAssemblies (565ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1010ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (186ms)
+			SetupLoadedEditorAssemblies (2135ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (153ms)
+				BeforeProcessingInitializeOnLoad (195ms)
+				ProcessInitializeOnLoadAttributes (1597ms)
+				ProcessInitializeOnLoadMethodAttributes (174ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.16 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.7 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2789.
+Total: 15.795284 ms (FindLiveObjects: 6.119528 ms CreateObjectMapping: 0.265997 ms MarkObjects: 9.244911 ms  DeleteObjects: 0.162927 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 55f8c8538cf0483ab7069ead6b737db2 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Tiles
+  artifactKey: Guid(144e1518d66922a4e91f82ac0a140c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles using Guid(144e1518d66922a4e91f82ac0a140c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94136234d0b56b5a8027bb52ea634461') in 0.053728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.698870 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_237.asset
+  artifactKey: Guid(6174bf5df522b714eb24433ff9817523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_237.asset using Guid(6174bf5df522b714eb24433ff9817523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4167b91d39e72692c80af2ea3d63231') in 0.336190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_309.asset
+  artifactKey: Guid(dc3ca9e852b88c3458da2ad601e59d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_309.asset using Guid(dc3ca9e852b88c3458da2ad601e59d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c6629a094736d4444dd885f10b0ee2a') in 0.031254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_258.asset
+  artifactKey: Guid(200d621e9b9dea5468853fc6ba106640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_258.asset using Guid(200d621e9b9dea5468853fc6ba106640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '526ccd724c7bd22e58104ffb3e5988d2') in 0.082237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003568 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_246.asset
+  artifactKey: Guid(e45dcf7402ccd28419c56584b28fbe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_246.asset using Guid(e45dcf7402ccd28419c56584b28fbe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743b70159b1f15910c16e3caa1122ccd') in 0.050813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_245.asset
+  artifactKey: Guid(5acbdcb9525c3b14ca1afb9b0d04014c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_245.asset using Guid(5acbdcb9525c3b14ca1afb9b0d04014c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30fd54449d87594a088a75ee4981ade7') in 0.062841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009705 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_251.asset
+  artifactKey: Guid(9b48b25a5bbe3c34b8278411a88190ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_251.asset using Guid(9b48b25a5bbe3c34b8278411a88190ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3844406c67b19113f9a7175a963172') in 0.033196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_250.asset
+  artifactKey: Guid(839637409f62ede4ca628f3beeae32a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_250.asset using Guid(839637409f62ede4ca628f3beeae32a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34c28fa93e91d2ed956e91865c11fec') in 0.086228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_243.asset
+  artifactKey: Guid(c09d07520161ef0429e2df4cf404a578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_243.asset using Guid(c09d07520161ef0429e2df4cf404a578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd04dab719323ffe8224477a62b5fb9') in 0.019524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_310.asset
+  artifactKey: Guid(f5c9cd10643b52c4180d915fe69e825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_310.asset using Guid(f5c9cd10643b52c4180d915fe69e825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91bba65a40b5c822d4629187510e8cdb') in 0.018469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_259.asset
+  artifactKey: Guid(b4bd5ed6292add34d9dd6361c0d31672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_259.asset using Guid(b4bd5ed6292add34d9dd6361c0d31672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1797a44173602a34ce2b121ede26d345') in 0.018273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_318.asset
+  artifactKey: Guid(e938a2ba958bd3845bfa49f8f2a9c6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_318.asset using Guid(e938a2ba958bd3845bfa49f8f2a9c6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e17a5679e3fdaf908cd02c6b2794ef0') in 0.031647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029800 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_312.asset
+  artifactKey: Guid(cddbec98384efeb4a88231be3672441d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_312.asset using Guid(cddbec98384efeb4a88231be3672441d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54d7535e027b919166a8afc4f72b89b6') in 0.007144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_313.asset
+  artifactKey: Guid(bf10f366c35438f4b99f7536dfb917a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_313.asset using Guid(bf10f366c35438f4b99f7536dfb917a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a37e00b43b01eb1a6ad5d0ad14c29c5') in 0.022967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_255.asset
+  artifactKey: Guid(7fcb05f4af4be684786edeadfafe10b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_255.asset using Guid(7fcb05f4af4be684786edeadfafe10b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c8b121248d606f6c090f0307b3007c') in 0.013783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_253.asset
+  artifactKey: Guid(0fe463edc3b6e9f4dac30db1ce4928ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_253.asset using Guid(0fe463edc3b6e9f4dac30db1ce4928ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5b1c84740cb54015743c3268760aab') in 0.030573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008273 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_311.asset
+  artifactKey: Guid(c41002aa947adcc4b8c20a46c4999cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_311.asset using Guid(c41002aa947adcc4b8c20a46c4999cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e1a86252cbac01924c660d34429e06') in 0.016647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000964 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_317.asset
+  artifactKey: Guid(a883a86225dd32c448af311d46e8e0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_317.asset using Guid(a883a86225dd32c448af311d46e8e0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '243b848254c9dfe240346c0264547dba') in 0.012017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_248.asset
+  artifactKey: Guid(29fc576a03e3e14429a79166422788d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_248.asset using Guid(29fc576a03e3e14429a79166422788d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b913a45a16dbe66eec2e07ac011df9') in 0.015527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000890 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_242.asset
+  artifactKey: Guid(4dde2a8f5bdb21e4689492c05f5461cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_242.asset using Guid(4dde2a8f5bdb21e4689492c05f5461cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d028ec96817f0e12a0366a1e49cbfb0') in 0.035329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_244.asset
+  artifactKey: Guid(d5f17a86316b84a469b3b1827a3de685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_244.asset using Guid(d5f17a86316b84a469b3b1827a3de685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17fcfda77ff66da2ffa8a57437ae864') in 0.080602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_252.asset
+  artifactKey: Guid(e2ae21ecbf964cf449293e24eab0b991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_252.asset using Guid(e2ae21ecbf964cf449293e24eab0b991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa42110e8a8fe521326ca0df08b8f95') in 0.013976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030043 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_314.asset
+  artifactKey: Guid(a981ebb5458e563459b67f84bd8d7d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_314.asset using Guid(a981ebb5458e563459b67f84bd8d7d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92186bea8de54b885805de2ee24b26a') in 0.006429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_241.asset
+  artifactKey: Guid(dbd17177ce8c81f47a158239660a7214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_241.asset using Guid(dbd17177ce8c81f47a158239660a7214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54706ad9aa4599c2e13097d13a838fb8') in 0.012805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_316.asset
+  artifactKey: Guid(602d78ee09324644794feb9448357302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_316.asset using Guid(602d78ee09324644794feb9448357302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9347c6291acbcc734ae8d57d10525b8') in 0.047397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_256.asset
+  artifactKey: Guid(a5d44eed77ae1ea429f2ed7497e37056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_256.asset using Guid(a5d44eed77ae1ea429f2ed7497e37056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02b1fb2632fb9967fe34c95a90d6041') in 0.017180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_254.asset
+  artifactKey: Guid(745243e6e8f80664b97fdc361b896ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_254.asset using Guid(745243e6e8f80664b97fdc361b896ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bfb362d0842c0f82d53665a7d7f076') in 0.007258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_315.asset
+  artifactKey: Guid(06f3fe638ae72b7448f34297d4711ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_315.asset using Guid(06f3fe638ae72b7448f34297d4711ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd812104a41344415d671ab57a29eac36') in 0.017909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_249.asset
+  artifactKey: Guid(8f528d4f6c4c0194d9b1502e00d3c67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_249.asset using Guid(8f528d4f6c4c0194d9b1502e00d3c67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937fca0c26d2867aa4db9575417bb926') in 0.033700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003608 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_319.asset
+  artifactKey: Guid(89f4e95287279cd48a71f5fb9c282425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_319.asset using Guid(89f4e95287279cd48a71f5fb9c282425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8b965eb8a0422f8f303c60cfbbdb2b') in 0.006650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_257.asset
+  artifactKey: Guid(0fbfd3e159fa731468068a92d7c59ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_257.asset using Guid(0fbfd3e159fa731468068a92d7c59ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1269b860d26146c1f9b236a4e8d3bba') in 0.015358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_239.asset
+  artifactKey: Guid(289fb8aff088add4c8ef471e03b6c4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_239.asset using Guid(289fb8aff088add4c8ef471e03b6c4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda52efadd84b48931ad3d9d48d5cd79') in 0.058834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_238.asset
+  artifactKey: Guid(4ee773af5755221489f6964124001113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_238.asset using Guid(4ee773af5755221489f6964124001113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838a3762dde3fb66d80ed1dc2de98b7b') in 0.012814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036085 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_247.asset
+  artifactKey: Guid(d768faa59b916cc4ea8cca146cbc65c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_247.asset using Guid(d768faa59b916cc4ea8cca146cbc65c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e5b8f77a90df26fa07b2b374ae2356') in 0.046443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Tiles/WallsAndFloorsTile(16x16) 1_240.asset
+  artifactKey: Guid(4a3760a676e310241b819043822a348c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/WallsAndFloorsTile(16x16) 1_240.asset using Guid(4a3760a676e310241b819043822a348c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578e9efe145c44a70fccd757d9e3a124') in 0.014537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.524589 seconds.
+  path: Assets/WallsAndFloorsTile(16x16) 1.png
+  artifactKey: Guid(18fc9df2dca45e34e966e0403aae06c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WallsAndFloorsTile(16x16) 1.png using Guid(18fc9df2dca45e34e966e0403aae06c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f3ddfbbc4fb8d417d59eb59def6ceb') in 0.352941 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

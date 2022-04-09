@@ -1,0 +1,4455 @@
+fileFormatVersion: 2
+guid: 4840e3791cefafe4daae644e20e5904a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6701133816940713327
+    second: Colision1_0
+  - first:
+      213: 6610858014709101831
+    second: Colision1_1
+  - first:
+      213: 6924791991153627662
+    second: Colision1_2
+  - first:
+      213: 5880848672281923554
+    second: Colision1_3
+  - first:
+      213: 327643412850962807
+    second: Colision1_4
+  - first:
+      213: 4601805545740115543
+    second: Colision1_5
+  - first:
+      213: -2472860278771527605
+    second: Colision1_6
+  - first:
+      213: -249940956143784489
+    second: Colision1_7
+  - first:
+      213: 4983964706449224283
+    second: Colision1_8
+  - first:
+      213: 6510318735529372626
+    second: Colision1_9
+  - first:
+      213: -4662780423631649630
+    second: Colision1_10
+  - first:
+      213: -5824202846692433408
+    second: Colision1_11
+  - first:
+      213: 7033012251324606080
+    second: Colision1_12
+  - first:
+      213: 4843968728210085302
+    second: Colision1_13
+  - first:
+      213: -8745825499519305525
+    second: Colision1_14
+  - first:
+      213: 768179283927947485
+    second: Colision1_15
+  - first:
+      213: 2034175385188814360
+    second: Colision1_16
+  - first:
+      213: 8849422460035083570
+    second: Colision1_17
+  - first:
+      213: -8652909373200675091
+    second: Colision1_18
+  - first:
+      213: -2262958989011806227
+    second: Colision1_19
+  - first:
+      213: 7232833386415801328
+    second: Colision1_20
+  - first:
+      213: -4969793849264440079
+    second: Colision1_21
+  - first:
+      213: 2405514447668335467
+    second: Colision1_22
+  - first:
+      213: -4618003075191706785
+    second: Colision1_23
+  - first:
+      213: 1863485565028889701
+    second: Colision1_24
+  - first:
+      213: -7927300055627681049
+    second: Colision1_25
+  - first:
+      213: -8956869756632644436
+    second: Colision1_26
+  - first:
+      213: -6806155196576640278
+    second: Colision1_27
+  - first:
+      213: 1868972103094453994
+    second: Colision1_28
+  - first:
+      213: 282685499116980623
+    second: Colision1_29
+  - first:
+      213: 6087224923779839852
+    second: Colision1_30
+  - first:
+      213: 7433637619046173061
+    second: Colision1_31
+  - first:
+      213: -5555638845830437349
+    second: Colision1_32
+  - first:
+      213: -2740822452050660445
+    second: Colision1_33
+  - first:
+      213: 6507006090347092665
+    second: Colision1_34
+  - first:
+      213: -3583063370292847630
+    second: Colision1_35
+  - first:
+      213: -918030977890012761
+    second: Colision1_36
+  - first:
+      213: -3195869588266816940
+    second: Colision1_37
+  - first:
+      213: -1422009878318613077
+    second: Colision1_38
+  - first:
+      213: -7538939024517076985
+    second: Colision1_39
+  - first:
+      213: 602241450780139634
+    second: Colision1_40
+  - first:
+      213: -5047736034363094853
+    second: Colision1_41
+  - first:
+      213: 2050178687986303756
+    second: Colision1_42
+  - first:
+      213: -6717379794156513545
+    second: Colision1_43
+  - first:
+      213: -8769159496716581549
+    second: Colision1_44
+  - first:
+      213: -4032149507451240717
+    second: Colision1_45
+  - first:
+      213: -1811996896904455145
+    second: Colision1_46
+  - first:
+      213: -1557327182613267804
+    second: Colision1_47
+  - first:
+      213: 4305557124388323597
+    second: Colision1_48
+  - first:
+      213: -9124091520092082823
+    second: Colision1_49
+  - first:
+      213: -8887071896699849229
+    second: Colision1_50
+  - first:
+      213: 4836239041241868697
+    second: Colision1_51
+  - first:
+      213: 8688224806625384874
+    second: Colision1_52
+  - first:
+      213: -1680992385373745180
+    second: Colision1_53
+  - first:
+      213: 3965531637620590600
+    second: Colision1_54
+  - first:
+      213: 7579988547577099200
+    second: Colision1_55
+  - first:
+      213: 8039491040576081644
+    second: Colision1_56
+  - first:
+      213: 3326608652503868350
+    second: Colision1_57
+  - first:
+      213: -7884307470478772306
+    second: Colision1_58
+  - first:
+      213: -3265084890224940440
+    second: Colision1_59
+  - first:
+      213: 7375473722749533967
+    second: Colision1_60
+  - first:
+      213: -8962859015739174820
+    second: Colision1_61
+  - first:
+      213: -6605118019461997441
+    second: Colision1_62
+  - first:
+      213: 8878979413617375776
+    second: Colision1_63
+  - first:
+      213: 5687357506483261495
+    second: Colision1_64
+  - first:
+      213: 9130201913379111372
+    second: Colision1_65
+  - first:
+      213: 1258161476148899165
+    second: Colision1_66
+  - first:
+      213: 4643911196474885736
+    second: Colision1_67
+  - first:
+      213: -215729269138356206
+    second: Colision1_68
+  - first:
+      213: 2721848021327679652
+    second: Colision1_69
+  - first:
+      213: -6541912841470963229
+    second: Colision1_70
+  - first:
+      213: 6813913388736080268
+    second: Colision1_71
+  - first:
+      213: 7995290526120177955
+    second: Colision1_72
+  - first:
+      213: -4179201702014128280
+    second: Colision1_73
+  - first:
+      213: 1229178424123991196
+    second: Colision1_74
+  - first:
+      213: 5004465487799650555
+    second: Colision1_75
+  - first:
+      213: -7204558496579547407
+    second: Colision1_76
+  - first:
+      213: -2210694145877255454
+    second: Colision1_77
+  - first:
+      213: 3960439004398974279
+    second: Colision1_78
+  - first:
+      213: -3117018488618963325
+    second: Colision1_79
+  - first:
+      213: 5431760180675981997
+    second: Colision1_80
+  - first:
+      213: 4383661571129496259
+    second: Colision1_81
+  - first:
+      213: -2029728613547278562
+    second: Colision1_82
+  - first:
+      213: 7476877947752478165
+    second: Colision1_83
+  - first:
+      213: 8021642764859759029
+    second: Colision1_84
+  - first:
+      213: 5694932344721772639
+    second: Colision1_85
+  - first:
+      213: -3642957333065422661
+    second: Colision1_86
+  - first:
+      213: 8531162111953887292
+    second: Colision1_87
+  - first:
+      213: -52382482339425699
+    second: Colision1_88
+  - first:
+      213: -1578981490959493925
+    second: Colision1_89
+  - first:
+      213: -8703313700438470638
+    second: Colision1_90
+  - first:
+      213: 4422067652441457222
+    second: Colision1_91
+  - first:
+      213: 4540220424970359264
+    second: Colision1_92
+  - first:
+      213: 7554209039163103245
+    second: Colision1_93
+  - first:
+      213: -3000143489925904813
+    second: Colision1_94
+  - first:
+      213: -499570452177870769
+    second: Colision1_95
+  - first:
+      213: 7991167687894072960
+    second: Colision1_96
+  - first:
+      213: 8390974199808459629
+    second: Colision1_97
+  - first:
+      213: 4357996933059288720
+    second: Colision1_98
+  - first:
+      213: -7769458403578298565
+    second: Colision1_99
+  - first:
+      213: 4248499539209888592
+    second: Colision1_100
+  - first:
+      213: -9036313011306495574
+    second: Colision1_101
+  - first:
+      213: 480894805798076529
+    second: Colision1_102
+  - first:
+      213: 7616383683268448613
+    second: Colision1_103
+  - first:
+      213: 8325886988178508141
+    second: Colision1_104
+  - first:
+      213: 116968330028117910
+    second: Colision1_105
+  - first:
+      213: 1870554894625819370
+    second: Colision1_106
+  - first:
+      213: 733731920246636347
+    second: Colision1_107
+  - first:
+      213: 3382251276512912327
+    second: Colision1_108
+  - first:
+      213: 4726469242926665935
+    second: Colision1_109
+  - first:
+      213: -7094599078421902252
+    second: Colision1_110
+  - first:
+      213: 2928700728471630713
+    second: Colision1_111
+  - first:
+      213: 3071805326041129513
+    second: Colision1_112
+  - first:
+      213: 3245833563050131301
+    second: Colision1_113
+  - first:
+      213: -1485485152459235220
+    second: Colision1_114
+  - first:
+      213: 3586381892995832114
+    second: Colision1_115
+  - first:
+      213: 4443052535350975269
+    second: Colision1_116
+  - first:
+      213: 3959121758442762284
+    second: Colision1_117
+  - first:
+      213: -8850120956315359040
+    second: Colision1_118
+  - first:
+      213: -9159632381059396785
+    second: Colision1_119
+  - first:
+      213: -4216132889606633696
+    second: Colision1_120
+  - first:
+      213: -8389285867820655971
+    second: Colision1_121
+  - first:
+      213: 6239971892542043289
+    second: Colision1_122
+  - first:
+      213: -5678132352527212628
+    second: Colision1_123
+  - first:
+      213: 8109617251600244805
+    second: Colision1_124
+  - first:
+      213: 6813339274707526902
+    second: Colision1_125
+  - first:
+      213: 6552788491455485289
+    second: Colision1_126
+  - first:
+      213: -2479029992282971377
+    second: Colision1_127
+  - first:
+      213: -5956039230012879892
+    second: Colision1_128
+  - first:
+      213: 7477645276561694303
+    second: Colision1_129
+  - first:
+      213: -8071834532295483365
+    second: Colision1_130
+  - first:
+      213: 567007985132878522
+    second: Colision1_131
+  - first:
+      213: -5525324018902000036
+    second: Colision1_132
+  - first:
+      213: -7086136941580796340
+    second: Colision1_133
+  - first:
+      213: 5893891425714605048
+    second: Colision1_134
+  - first:
+      213: -4283991907278224696
+    second: Colision1_135
+  - first:
+      213: 1076946354134188535
+    second: Colision1_136
+  - first:
+      213: 8941012023659037056
+    second: Colision1_137
+  - first:
+      213: 2711700291157175210
+    second: Colision1_138
+  - first:
+      213: -7713097976389717628
+    second: Colision1_139
+  - first:
+      213: 2100800097304393384
+    second: Colision1_140
+  - first:
+      213: 7123577121622719846
+    second: Colision1_141
+  - first:
+      213: -1185575181108191036
+    second: Colision1_142
+  - first:
+      213: -7201391560060418017
+    second: Colision1_143
+  - first:
+      213: 4834938087903179885
+    second: Colision1_144
+  - first:
+      213: -1822770312946462160
+    second: Colision1_145
+  - first:
+      213: -5907890985090585342
+    second: Colision1_146
+  - first:
+      213: 5333922156471843956
+    second: Colision1_147
+  - first:
+      213: -9085595804899593278
+    second: Colision1_148
+  - first:
+      213: -8142016221740143813
+    second: Colision1_149
+  - first:
+      213: 3310156053260331089
+    second: Colision1_150
+  - first:
+      213: -8086648732443351610
+    second: Colision1_151
+  - first:
+      213: -6773556344612804446
+    second: Colision1_152
+  - first:
+      213: -1556121041825493861
+    second: Colision1_153
+  - first:
+      213: 7364670196277633895
+    second: Colision1_154
+  - first:
+      213: 6828689133357534926
+    second: Colision1_155
+  - first:
+      213: 493416393660920844
+    second: Colision1_156
+  - first:
+      213: 5047696262303106539
+    second: Colision1_157
+  - first:
+      213: -2333309714990172440
+    second: Colision1_158
+  - first:
+      213: 2655665730819139854
+    second: Colision1_159
+  - first:
+      213: 4671222946050014446
+    second: Colision1_160
+  - first:
+      213: -6153352993568301436
+    second: Colision1_161
+  - first:
+      213: -2058555490224935268
+    second: Colision1_162
+  - first:
+      213: -7855856097742995608
+    second: Colision1_163
+  - first:
+      213: 2034974946089328516
+    second: Colision1_164
+  - first:
+      213: 3068447461627483964
+    second: Colision1_165
+  - first:
+      213: -5859060691086868645
+    second: Colision1_166
+  - first:
+      213: 7861256830192923493
+    second: Colision1_167
+  - first:
+      213: 1653285571070448778
+    second: Colision1_168
+  - first:
+      213: -1539302791955380021
+    second: Colision1_169
+  - first:
+      213: 3472973069642677892
+    second: Colision1_170
+  - first:
+      213: -8526581229592209907
+    second: Colision1_171
+  - first:
+      213: 5548618467482363364
+    second: Colision1_172
+  - first:
+      213: -7042971285134507269
+    second: Colision1_173
+  - first:
+      213: 2906447679665076292
+    second: Colision1_174
+  - first:
+      213: 1810554119919280257
+    second: Colision1_175
+  - first:
+      213: 5367795550503214297
+    second: Colision1_176
+  - first:
+      213: -354774116996370076
+    second: Colision1_177
+  - first:
+      213: -5232833716151979079
+    second: Colision1_178
+  - first:
+      213: -2981032273815722461
+    second: Colision1_179
+  - first:
+      213: -3865584783739884757
+    second: Colision1_180
+  - first:
+      213: -1015188153418236624
+    second: Colision1_181
+  - first:
+      213: -6519360697854678253
+    second: Colision1_182
+  - first:
+      213: -3050360653003316435
+    second: Colision1_183
+  - first:
+      213: 2219093335396735900
+    second: Colision1_184
+  - first:
+      213: -2521671492001650722
+    second: Colision1_185
+  - first:
+      213: -4414291834452248445
+    second: Colision1_186
+  - first:
+      213: 2259554171805917950
+    second: Colision1_187
+  - first:
+      213: 7158549052202920642
+    second: Colision1_188
+  - first:
+      213: -3564503526989834572
+    second: Colision1_189
+  - first:
+      213: 5844815813872735257
+    second: Colision1_190
+  - first:
+      213: 276683021781529663
+    second: Colision1_191
+  - first:
+      213: -2773584148558376221
+    second: Colision1_192
+  - first:
+      213: 9190367899153376724
+    second: Colision1_193
+  - first:
+      213: -6628197905138525589
+    second: Colision1_194
+  - first:
+      213: -4627789851919948179
+    second: Colision1_195
+  - first:
+      213: -1761157140930006802
+    second: Colision1_196
+  - first:
+      213: 3330818512259603059
+    second: Colision1_197
+  - first:
+      213: -4691250045106386699
+    second: Colision1_198
+  - first:
+      213: 9211206533799104706
+    second: Colision1_199
+  - first:
+      213: 2202275551046042399
+    second: Colision1_200
+  - first:
+      213: -7977069225912833750
+    second: Colision1_201
+  - first:
+      213: 7291386745020333935
+    second: Colision1_202
+  - first:
+      213: 449172337950207913
+    second: Colision1_203
+  - first:
+      213: 3218181559967991103
+    second: Colision1_204
+  - first:
+      213: -5221963397921011012
+    second: Colision1_205
+  - first:
+      213: 2884822715160233021
+    second: Colision1_206
+  - first:
+      213: 6961956843198787748
+    second: Colision1_207
+  - first:
+      213: -6021154606926238230
+    second: Colision1_208
+  - first:
+      213: -9093437566412629573
+    second: Colision1_209
+  - first:
+      213: -3279489272375689295
+    second: Colision1_210
+  - first:
+      213: 4181233198018368309
+    second: Colision1_211
+  - first:
+      213: 6658352379185259300
+    second: Colision1_212
+  - first:
+      213: -3621894841932966517
+    second: Colision1_213
+  - first:
+      213: -634552060540834931
+    second: Colision1_214
+  - first:
+      213: 4322517752854129919
+    second: Colision1_215
+  - first:
+      213: 6916602595071005238
+    second: Colision1_216
+  - first:
+      213: -6738092352330987025
+    second: Colision1_217
+  - first:
+      213: 4646559277382411262
+    second: Colision1_218
+  - first:
+      213: 6500137495046728421
+    second: Colision1_219
+  - first:
+      213: -9145028993088507942
+    second: Colision1_220
+  - first:
+      213: 6609530694765307299
+    second: Colision1_221
+  - first:
+      213: 7942380966764888353
+    second: Colision1_222
+  - first:
+      213: -4530187220379622508
+    second: Colision1_223
+  - first:
+      213: 7348988022338625296
+    second: Colision1_224
+  - first:
+      213: 1781087539703037947
+    second: Colision1_225
+  - first:
+      213: 314090565326901244
+    second: Colision1_226
+  - first:
+      213: -5136038520081500401
+    second: Colision1_227
+  - first:
+      213: 5423163809539914890
+    second: Colision1_228
+  - first:
+      213: 4500000124166551499
+    second: Colision1_229
+  - first:
+      213: -5187718677351402237
+    second: Colision1_230
+  - first:
+      213: 2547190980015811347
+    second: Colision1_231
+  - first:
+      213: 2452751812478726411
+    second: Colision1_232
+  - first:
+      213: 8316182950497313488
+    second: Colision1_233
+  - first:
+      213: -5814530400843316923
+    second: Colision1_234
+  - first:
+      213: -8137543335861311148
+    second: Colision1_235
+  - first:
+      213: -3122149739513467011
+    second: Colision1_236
+  - first:
+      213: -1176371838796961353
+    second: Colision1_237
+  - first:
+      213: 2908834276731010011
+    second: Colision1_238
+  - first:
+      213: -1291136350715974928
+    second: Colision1_239
+  - first:
+      213: 8581056459485876624
+    second: Colision1_240
+  - first:
+      213: -7957244851114352202
+    second: Colision1_241
+  - first:
+      213: 530532220555111793
+    second: Colision1_242
+  - first:
+      213: 8083131684585722920
+    second: Colision1_243
+  - first:
+      213: -7232471073315061594
+    second: Colision1_244
+  - first:
+      213: 9030145862147670074
+    second: Colision1_245
+  - first:
+      213: -4344313487069412907
+    second: Colision1_246
+  - first:
+      213: -4927014813356545833
+    second: Colision1_247
+  - first:
+      213: -9175928857298769236
+    second: Colision1_248
+  - first:
+      213: 551645989100630795
+    second: Colision1_249
+  - first:
+      213: -3860120565454792008
+    second: Colision1_250
+  - first:
+      213: 6242715846111138204
+    second: Colision1_251
+  - first:
+      213: -3880534758400691348
+    second: Colision1_252
+  - first:
+      213: 9209948159569281082
+    second: Colision1_253
+  - first:
+      213: 8669835224287111994
+    second: Colision1_254
+  - first:
+      213: -5271307226650885479
+    second: Colision1_255
+  - first:
+      213: 3429683464125611316
+    second: Colision1_256
+  - first:
+      213: -2021881064859824175
+    second: Colision1_257
+  - first:
+      213: -6541188939061887619
+    second: Colision1_258
+  - first:
+      213: -6361485935032196259
+    second: Colision1_259
+  - first:
+      213: -174266356247794197
+    second: Colision1_260
+  - first:
+      213: -8929201528525388597
+    second: Colision1_261
+  - first:
+      213: -8175989251879628895
+    second: Colision1_262
+  - first:
+      213: 3481541578644660799
+    second: Colision1_263
+  - first:
+      213: -5293084228257263656
+    second: Colision1_264
+  - first:
+      213: 6434588520023823011
+    second: Colision1_265
+  - first:
+      213: -5519828352121715067
+    second: Colision1_266
+  - first:
+      213: 855573259832550087
+    second: Colision1_267
+  - first:
+      213: 2055293569114671356
+    second: Colision1_268
+  - first:
+      213: 1824262262629336915
+    second: Colision1_269
+  - first:
+      213: 5468051055400529789
+    second: Colision1_270
+  - first:
+      213: 421012226522805714
+    second: Colision1_271
+  - first:
+      213: -4690938721073602292
+    second: Colision1_272
+  - first:
+      213: -7636771554115926594
+    second: Colision1_273
+  - first:
+      213: 4280214694157172356
+    second: Colision1_274
+  - first:
+      213: -5368229396590963883
+    second: Colision1_275
+  - first:
+      213: 8576827638070782561
+    second: Colision1_276
+  - first:
+      213: -6342471332569112496
+    second: Colision1_277
+  - first:
+      213: -4869792031702412947
+    second: Colision1_278
+  - first:
+      213: -5069928252013141261
+    second: Colision1_279
+  - first:
+      213: 5553529481302499639
+    second: Colision1_280
+  - first:
+      213: 6905427110183679370
+    second: Colision1_281
+  - first:
+      213: 4655607936672046638
+    second: Colision1_282
+  - first:
+      213: -3526176506814315052
+    second: Colision1_283
+  - first:
+      213: 1958289358075741652
+    second: Colision1_284
+  - first:
+      213: 1378699424636974722
+    second: Colision1_285
+  - first:
+      213: -2309614614441361194
+    second: Colision1_286
+  - first:
+      213: 7233281805785149325
+    second: Colision1_287
+  - first:
+      213: -5381757772242262276
+    second: Colision1_288
+  - first:
+      213: -8651928496710453240
+    second: Colision1_289
+  - first:
+      213: -6907910650619745759
+    second: Colision1_290
+  - first:
+      213: 31352151416300865
+    second: Colision1_291
+  - first:
+      213: -1676419584800745085
+    second: Colision1_292
+  - first:
+      213: -4019328809568629233
+    second: Colision1_293
+  - first:
+      213: 6680055478413414192
+    second: Colision1_294
+  - first:
+      213: -8844651853565151086
+    second: Colision1_295
+  - first:
+      213: 992576700670205286
+    second: Colision1_296
+  - first:
+      213: 3850076589686118734
+    second: Colision1_297
+  - first:
+      213: 8220297392107081900
+    second: Colision1_298
+  - first:
+      213: 742975751213659633
+    second: Colision1_299
+  - first:
+      213: 6192996903687892250
+    second: Colision1_300
+  - first:
+      213: -1415415185886909474
+    second: Colision1_301
+  - first:
+      213: -1540837399688856131
+    second: Colision1_302
+  - first:
+      213: 3842401484071510575
+    second: Colision1_303
+  - first:
+      213: 3128665944723822764
+    second: Colision1_304
+  - first:
+      213: 5752427762735560678
+    second: Colision1_305
+  - first:
+      213: 3368727411573333135
+    second: Colision1_306
+  - first:
+      213: -1374838483059455201
+    second: Colision1_307
+  - first:
+      213: 882232306352968775
+    second: Colision1_308
+  - first:
+      213: 8957721607973113774
+    second: Colision1_309
+  - first:
+      213: 6359664507914249042
+    second: Colision1_310
+  - first:
+      213: 8080612874399512726
+    second: Colision1_311
+  - first:
+      213: 8911145383539247985
+    second: Colision1_312
+  - first:
+      213: 3745501263439944058
+    second: Colision1_313
+  - first:
+      213: 1824342662645188296
+    second: Colision1_314
+  - first:
+      213: -5628634809784269687
+    second: Colision1_315
+  - first:
+      213: 3213402246003346919
+    second: Colision1_316
+  - first:
+      213: -7096222580887184251
+    second: Colision1_317
+  - first:
+      213: 764892939126381260
+    second: Colision1_318
+  - first:
+      213: 8440414785499325356
+    second: Colision1_319
+  - first:
+      213: -7363765500124081536
+    second: Colision1_320
+  - first:
+      213: -6238579758230979326
+    second: Colision1_321
+  - first:
+      213: -2790731836166834985
+    second: Colision1_322
+  - first:
+      213: 3833142033782646387
+    second: Colision1_323
+  - first:
+      213: 9110574816670517986
+    second: Colision1_324
+  - first:
+      213: 561369331837132711
+    second: Colision1_325
+  - first:
+      213: 8717272927393686052
+    second: Colision1_326
+  - first:
+      213: -7412234527302682922
+    second: Colision1_327
+  - first:
+      213: 1698585798505108837
+    second: Colision1_328
+  - first:
+      213: 7815518969777111477
+    second: Colision1_329
+  - first:
+      213: -8099327352496950150
+    second: Colision1_330
+  - first:
+      213: 6084703945387095600
+    second: Colision1_331
+  - first:
+      213: 3104055144196531253
+    second: Colision1_332
+  - first:
+      213: -8487268381018340972
+    second: Colision1_333
+  - first:
+      213: 7165033657948990175
+    second: Colision1_334
+  - first:
+      213: -3016918242685364201
+    second: Colision1_335
+  - first:
+      213: 6271230937298491520
+    second: Colision1_336
+  - first:
+      213: 2374987758975295496
+    second: Colision1_337
+  - first:
+      213: -9163162053600900740
+    second: Colision1_338
+  - first:
+      213: 2608975311098465480
+    second: Colision1_339
+  - first:
+      213: -620061691210024910
+    second: Colision1_340
+  - first:
+      213: 2030040669567241871
+    second: Colision1_341
+  - first:
+      213: 3318448471786702803
+    second: Colision1_342
+  - first:
+      213: 4232388721497826495
+    second: Colision1_343
+  - first:
+      213: 2233139939699755335
+    second: Colision1_344
+  - first:
+      213: -3401016204547487153
+    second: Colision1_345
+  - first:
+      213: -8406128298218688360
+    second: Colision1_346
+  - first:
+      213: -4788021986970364200
+    second: Colision1_347
+  - first:
+      213: 507056294277677750
+    second: Colision1_348
+  - first:
+      213: -8609158805631455497
+    second: Colision1_349
+  - first:
+      213: -2303032286710408051
+    second: Colision1_350
+  - first:
+      213: -1664377830295935108
+    second: Colision1_351
+  - first:
+      213: -6248543777822828096
+    second: Colision1_352
+  - first:
+      213: -7398691290344479866
+    second: Colision1_353
+  - first:
+      213: 4693990906152542661
+    second: Colision1_354
+  - first:
+      213: 2365831071843592440
+    second: Colision1_355
+  - first:
+      213: -5567821443013909235
+    second: Colision1_356
+  - first:
+      213: 5433236331348079715
+    second: Colision1_357
+  - first:
+      213: -6238952891789102364
+    second: Colision1_358
+  - first:
+      213: 6022395151631618068
+    second: Colision1_359
+  - first:
+      213: 7870224729655261244
+    second: Colision1_360
+  - first:
+      213: -3938845070716952181
+    second: Colision1_361
+  - first:
+      213: -7782456212376650707
+    second: Colision1_362
+  - first:
+      213: -3150283654217189923
+    second: Colision1_363
+  - first:
+      213: 9145655836441091700
+    second: Colision1_364
+  - first:
+      213: -6665580779057066108
+    second: Colision1_365
+  - first:
+      213: 5527836852062939026
+    second: Colision1_366
+  - first:
+      213: 8224004452586698223
+    second: Colision1_367
+  - first:
+      213: -803759615586773406
+    second: Colision1_368
+  - first:
+      213: -1550233868230908026
+    second: Colision1_369
+  - first:
+      213: -4943695721014948658
+    second: Colision1_370
+  - first:
+      213: -10985563188696803
+    second: Colision1_371
+  - first:
+      213: 8693501784371887354
+    second: Colision1_372
+  - first:
+      213: 4676738974192548329
+    second: Colision1_373
+  - first:
+      213: -8739400591198957474
+    second: Colision1_374
+  - first:
+      213: -7429563944383869972
+    second: Colision1_375
+  - first:
+      213: -5977001569212229556
+    second: Colision1_376
+  - first:
+      213: 4220326689630912720
+    second: Colision1_377
+  - first:
+      213: 3609972592325039671
+    second: Colision1_378
+  - first:
+      213: 64797491511973156
+    second: Colision1_379
+  - first:
+      213: -5032843373083301412
+    second: Colision1_380
+  - first:
+      213: 2585453020295827551
+    second: Colision1_381
+  - first:
+      213: 8416379194166507869
+    second: Colision1_382
+  - first:
+      213: -5923862805724080741
+    second: Colision1_383
+  - first:
+      213: 68959809330072318
+    second: Colision1_384
+  - first:
+      213: 7645761644043077081
+    second: Colision1_385
+  - first:
+      213: 4891642869920711787
+    second: Colision1_386
+  - first:
+      213: -1862129604861458365
+    second: Colision1_387
+  - first:
+      213: 4427737997138538035
+    second: Colision1_388
+  - first:
+      213: -2537708005970859503
+    second: Colision1_389
+  - first:
+      213: 1492448434353004016
+    second: Colision1_390
+  - first:
+      213: 8704061649170102948
+    second: Colision1_391
+  - first:
+      213: 6679235679475578137
+    second: Colision1_392
+  - first:
+      213: -4802456438712209247
+    second: Colision1_393
+  - first:
+      213: -5736485871970210251
+    second: Colision1_394
+  - first:
+      213: -6456266424864364534
+    second: Colision1_395
+  - first:
+      213: -4454602477542831734
+    second: Colision1_396
+  - first:
+      213: -4753495110809847515
+    second: Colision1_397
+  - first:
+      213: 6230516860626144257
+    second: Colision1_398
+  - first:
+      213: 4592389180905434606
+    second: Colision1_399
+  - first:
+      213: -4125630099965811423
+    second: Colision1_400
+  - first:
+      213: -1111132702128019540
+    second: Colision1_401
+  - first:
+      213: -5023658499032051742
+    second: Colision1_402
+  - first:
+      213: -718624457270896678
+    second: Colision1_403
+  - first:
+      213: 9029602155664196558
+    second: Colision1_404
+  - first:
+      213: -3932366255927223028
+    second: Colision1_405
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Colision1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a24e03c4ac003a0800000000000000
+      internalID: -6701133816940713327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705b74ba65c7ebb50800000000000000
+      internalID: 6610858014709101831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029e2870adc91060800000000000000
+      internalID: 6924791991153627662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef013995b8fc9150800000000000000
+      internalID: 5880848672281923554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7717af3b2f50c8400800000000000000
+      internalID: 327643412850962807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e134f23c5ecdf30800000000000000
+      internalID: 4601805545740115543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4056a0ada2aeadd0800000000000000
+      internalID: -2472860278771527605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd6a3e4608088cf0800000000000000
+      internalID: -249940956143784489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b527dfc8e799a2540800000000000000
+      internalID: 4983964706449224283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db6cc5956c495a50800000000000000
+      internalID: 6510318735529372626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a44acfb8e97a4fb0800000000000000
+      internalID: -4662780423631649630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002241f6e564c2fa0800000000000000
+      internalID: -5824202846692433408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0866c2d41674a9160800000000000000
+      internalID: 7033012251324606080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b51014d4eb393340800000000000000
+      internalID: 4843968728210085302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83999ab0690a680800000000000000
+      internalID: -8745825499519305525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8d65e1dfe19aa00800000000000000
+      internalID: 768179283927947485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ec50d3cb7da3c10800000000000000
+      internalID: 2034175385188814360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d21c557d67fca70800000000000000
+      internalID: 8849422460035083570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec9b825c0bae780800000000000000
+      internalID: -8652909373200675091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de79ca60aca5890e0800000000000000
+      internalID: -2262958989011806227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 200
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f346ecc4af206460800000000000000
+      internalID: 7232833386415801328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcfbaf33deb70bb0800000000000000
+      internalID: -4969793849264440079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63575b25aa126120800000000000000
+      internalID: 2405514447668335467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b698b9bae89efb0800000000000000
+      internalID: -4618003075191706785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647d9b8f3e6cd910800000000000000
+      internalID: 1863485565028889701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2b06c99929cf190800000000000000
+      internalID: -7927300055627681049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c870796ec2b380800000000000000
+      internalID: -8956869756632644436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2ded5c8edab81a0800000000000000
+      internalID: -6806155196576640278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_28
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae64f0cb93cefe910800000000000000
+      internalID: 1868972103094453994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f898506b6fc4ce300800000000000000
+      internalID: 282685499116980623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673dc111da2a7450800000000000000
+      internalID: 6087224923779839852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5894a388706992760800000000000000
+      internalID: 7433637619046173061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b166aed97e766e2b0800000000000000
+      internalID: -5555638845830437349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3fa195084a6f9d0800000000000000
+      internalID: -2740822452050660445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba117640978d4a50800000000000000
+      internalID: 6507006090347092665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_35
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1bfd39d6664ec0800000000000000
+      internalID: -3583063370292847630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1bf0680bf7243f0800000000000000
+      internalID: -918030977890012761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae1eaba8df5a3d0800000000000000
+      internalID: -3195869588266816940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badf8bfbc81044ce0800000000000000
+      internalID: -1422009878318613077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 184
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708645476ee406790800000000000000
+      internalID: -7538939024517076985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27024ce98679b5800800000000000000
+      internalID: 602241450780139634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb849df12d6d2f9b0800000000000000
+      internalID: -5047736034363094853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_42
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03008787a2b37c10800000000000000
+      internalID: 2050178687986303756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f61aebdaa217c2a0800000000000000
+      internalID: -6717379794156513545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355077316efad4680800000000000000
+      internalID: -8769159496716581549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe3a1fd26dea08c0800000000000000
+      internalID: -4032149507451240717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c56e13c6e7ad6e0800000000000000
+      internalID: -1811996896904455145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aab641bd23436ae0800000000000000
+      internalID: -1557327182613267804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01815f846960cb30800000000000000
+      internalID: 4305557124388323597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de1ce9a17b06180800000000000000
+      internalID: -9124091520092082823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_50
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f539d71237caa480800000000000000
+      internalID: -8887071896699849229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e816d8c5cd1340800000000000000
+      internalID: 4836239041241868697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa994afed66c29870800000000000000
+      internalID: 8688224806625384874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef49afe45aeba8e0800000000000000
+      internalID: -1680992385373745180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_54
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c2fd9306680730800000000000000
+      internalID: 3965531637620590600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3bcdb6c67813960800000000000000
+      internalID: 7579988547577099200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee0970a182029f60800000000000000
+      internalID: 8039491040576081644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3eb3fb1fc7a2e20800000000000000
+      internalID: 3326608652503868350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_58
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 168
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77722e020559290800000000000000
+      internalID: -7884307470478772306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa5ac679610b2d0800000000000000
+      internalID: -3265084890224940440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb6be1642fa5660800000000000000
+      internalID: 7375473722749533967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5095f266378d9380800000000000000
+      internalID: -8962859015739174820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9f6e1828e554a0800000000000000
+      internalID: -6605118019461997441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7bacdbb8783b70800000000000000
+      internalID: 8878979413617375776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730169ce48d8dee40800000000000000
+      internalID: 5687357506483261495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1cd8e244ef4be70800000000000000
+      internalID: 9130201913379111372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dafef4233e57110800000000000000
+      internalID: 1258161476148899165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_67
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8664852f0ac727040800000000000000
+      internalID: 4643911196474885736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2188a596f53910df0800000000000000
+      internalID: -215729269138356206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_69
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a016dbba52f5c520800000000000000
+      internalID: 2721848021327679652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e19e846ee47635a0800000000000000
+      internalID: -6541912841470963229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_71
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8964e91022ef8e50800000000000000
+      internalID: 6813913388736080268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32170756f5af4fe60800000000000000
+      internalID: 7995290526120177955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6db2c13e7006c0800000000000000
+      internalID: -4179201702014128280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942c77a34bee0110800000000000000
+      internalID: 1229178424123991196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8000ba8de637540800000000000000
+      internalID: 5004465487799650555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8adff734440c90800000000000000
+      internalID: -7204558496579547407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_77
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea53f713690251e0800000000000000
+      internalID: -2210694145877255454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7457dcb8a4e46f630800000000000000
+      internalID: 3960439004398974279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_79
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eaa8303302eb4d0800000000000000
+      internalID: -3117018488618963325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_80
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2bd4a0b1d716b40800000000000000
+      internalID: 5431760180675981997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c254ba29f4e5dc30800000000000000
+      internalID: 4383661571129496259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_82
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f71177494f4d3e0800000000000000
+      internalID: -2029728613547278562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5fcb811e433c760800000000000000
+      internalID: 7476877947752478165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_84
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95c8a1899925f60800000000000000
+      internalID: 8021642764859759029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_85
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5016036bc6780f40800000000000000
+      internalID: 5694932344721772639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb82bb65b9d917dc0800000000000000
+      internalID: -3642957333065422661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c306844adb6c46670800000000000000
+      internalID: 8531162111953887292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5294bbe866e54ff0800000000000000
+      internalID: -52382482339425699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4517423b4561ae0800000000000000
+      internalID: -1578981490959493925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_90
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21013943d4e973780800000000000000
+      internalID: -8703313700438470638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_91
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642c48cc9175e5d30800000000000000
+      internalID: 4422067652441457222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_92
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1d450eb6a120f30800000000000000
+      internalID: 4540220424970359264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d089c52e811f5d860800000000000000
+      internalID: 7554209039163103245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_94
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35604cf24695d56d0800000000000000
+      internalID: -3000143489925904813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_95
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4028a1125b2119f0800000000000000
+      internalID: -499570452177870769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_96
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e71815ca456ee60800000000000000
+      internalID: 7991167687894072960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_97
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d630d03d39ab27470800000000000000
+      internalID: 8390974199808459629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_98
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9d37fe17ba7c30800000000000000
+      internalID: 4357996933059288720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_99
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fba8d0fb65d2490800000000000000
+      internalID: -7769458403578298565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_100
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053240742d3b5fa30800000000000000
+      internalID: 4248499539209888592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_101
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa106d15131989280800000000000000
+      internalID: -9036313011306495574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170cce9274b7ca600800000000000000
+      internalID: 480894805798076529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_103
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5611c4a4b94d2b960800000000000000
+      internalID: 7616383683268448613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_104
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d694d627a1e7b8370800000000000000
+      internalID: 8325886988178508141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_105
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69feb41931e8f9100800000000000000
+      internalID: 116968330028117910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_106
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea4a0b14cb85f910800000000000000
+      internalID: 1870554894625819370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_107
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f7aa24b4dbe2a00800000000000000
+      internalID: 733731920246636347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e9a5bd9b20fe20800000000000000
+      internalID: 3382251276512912327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_109
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0147a0cbac79140800000000000000
+      internalID: 4726469242926665935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_110
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c49da1abbea8d90800000000000000
+      internalID: -7094599078421902252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_111
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973bafdabc5d4a820800000000000000
+      internalID: 2928700728471630713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_112
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922a5dd3bae31aa20800000000000000
+      internalID: 3071805326041129513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_113
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb4adad648b0d20800000000000000
+      internalID: 3245833563050131301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_114
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ec80df1f726be0800000000000000
+      internalID: -1485485152459235220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_115
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239d8e8845365c130800000000000000
+      internalID: 3586381892995832114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_116
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b5ef79db4e8ad30800000000000000
+      internalID: 4443052535350975269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2030825340a1f630800000000000000
+      internalID: 3959121758442762284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_118
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8259351ed0e2580800000000000000
+      internalID: -8850120956315359040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_119
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b0ac511e272e080800000000000000
+      internalID: -9159632381059396785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_120
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027c72599794d75c0800000000000000
+      internalID: -4216132889606633696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_121
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a585993f4439b80800000000000000
+      internalID: -8389285867820655971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_122
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 104
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f36f1065d89650800000000000000
+      internalID: 6239971892542043289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf56fb95b83331b0800000000000000
+      internalID: -5678132352527212628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_124
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540230a7ce52b8070800000000000000
+      internalID: 8109617251600244805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_125
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e823c8f7dd8e50800000000000000
+      internalID: 6813339274707526902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_126
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965d8713a6e20fa50800000000000000
+      internalID: 6552788491455485289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_127
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f032f624b57b89dd0800000000000000
+      internalID: -2479029992282971377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_128
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb8ac270e5e75da0800000000000000
+      internalID: -5956039230012879892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_129
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e56d1c2cee5c760800000000000000
+      internalID: 7477645276561694303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_130
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ebc062451bff80800000000000000
+      internalID: -8071834532295483365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_131
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abab7a222ca6ed700800000000000000
+      internalID: 567007985132878522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_132
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e9968441b1253b0800000000000000
+      internalID: -5525324018902000036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_133
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebd4fdefbf8ad90800000000000000
+      internalID: -7086136941580796340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_134
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb8076460f4bc150800000000000000
+      internalID: 5893891425714605048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_135
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28802de043c84c0800000000000000
+      internalID: -4283991907278224696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_136
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f10250d00512fe00800000000000000
+      internalID: 1076946354134188535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_137
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 88
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08181b2601bd41c70800000000000000
+      internalID: 8941012023659037056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_138
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab2fbf2c05e1a520800000000000000
+      internalID: 2711700291157175210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_139
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b187914295f490800000000000000
+      internalID: -7713097976389717628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_140
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a63fe7de8a872d10800000000000000
+      internalID: 2100800097304393384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_141
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dfb6856a70cd260800000000000000
+      internalID: 7123577121622719846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_142
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e68b77adfb8fe0800000000000000
+      internalID: -1185575181108191036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f184a1ed7848f0c90800000000000000
+      internalID: -7201391560060418017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_144
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64b9780396291340800000000000000
+      internalID: 4834938087903179885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_145
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d2bdce0834b6e0800000000000000
+      internalID: -1822770312946462160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_146
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d61fd4374f20ea0800000000000000
+      internalID: -5907890985090585342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_147
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cf614e0f5e50a40800000000000000
+      internalID: 5333922156471843956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colision1_148
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c33e24c0ca79e180800000000000000
+      internalID: -9085595804899593278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
