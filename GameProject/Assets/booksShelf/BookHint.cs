@@ -31,6 +31,7 @@ public class BookHint : MonoBehaviour
                     Invoke("Blik", 1.0f);
                     CalculatePages.quantityAvailableSentences++;
                     isTaken = true;
+                    WindowHint.HintIsTaken = true;
                 }
 
                 if (BookStartAnimator.GetBool("BookStartOpen") == true)
@@ -45,7 +46,7 @@ public class BookHint : MonoBehaviour
                     BookStartAnimator.SetBool("BookStartOpen", true);
                 }
             }
-            if (Input.GetKeyDown(KeyCode.Escape) && BookStartAnimator.GetBool("BookStartOpen") == false && BookEndAnimator.GetBool("BookEndOpen") == false)
+            if (Input.GetKeyDown(KeyCode.Escape) && BookInsideAnimator.GetBool("BookInsideOpen") == true)
             {
                 BookInsideAnimator.SetBool("BookInsideOpen", false);
                 BookInsideBlikAnimator.SetBool("BookInsideBlikOpen", false);

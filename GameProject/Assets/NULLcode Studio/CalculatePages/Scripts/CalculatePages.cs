@@ -1,13 +1,14 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 
 public class CalculatePages : MonoBehaviour
 {
-
 	[SerializeField] private string loadBook = "MainBook"; // имя текстового файла
 	[SerializeField] private string booksPath = "Books"; // имя папки с текстовым файлов в Resources
+    [SerializeField] private List<int> pagesArray = new List<int>(); // страницы конца темы(это для вывода новых подсказок)
 	[SerializeField] private Text leftPage; // левая страница
 	[SerializeField] private Text rightPage; // правая страница
 	[SerializeField] private Text LPN; // номер левой страницы
@@ -25,7 +26,7 @@ public class CalculatePages : MonoBehaviour
 		prevButton.onClick.AddListener(() => { Prev(); });
 		leftPage.rectTransform.sizeDelta = rightPage.rectTransform.sizeDelta;
 
-		Calculate(loadBook);
+        Calculate(loadBook);
 	}
 
 	void SetPages()
@@ -41,43 +42,45 @@ public class CalculatePages : MonoBehaviour
 		pageCount += 2;
 		SetPages();
 		prevButton.interactable = true;
-		if (pageCount + 1 >= pagesList.Count - 1) nextButton.interactable = false;
-	}
+        unchecked
+		{
+			if (quantityAvailableSentences <= pagesArray.Count && (pageCount == pagesArray[quantityAvailableSentences] - 1 || pageCount == pagesArray[quantityAvailableSentences]))
+                nextButton.interactable = false;
+			else if (pageCount + 1 >= pagesList.Count - 1)
+                nextButton.interactable = false;
+		}
+        
+    }
 
 	void Prev()
-	{
-		pageCount -= 2;
+    {
+        pageCount -= 2;
+        SetPages();
 
-		if (pageCount < 0)
-		{
-			leftPage.text = string.Empty;
-			rightPage.text = string.Empty;
-			LPN.text = string.Empty;
-			RPN.text = string.Empty;
-			prevButton.interactable = false;
-			return;
-		}
+        if (pageCount == 0)
+        {
+            prevButton.interactable = false;
+        }
 
-		SetPages();
-		nextButton.interactable = true;
-	}
+        nextButton.interactable = true;
+    }
 
 	void Calculate(string fileName)
 	{
-		TextAsset binary = Resources.Load<TextAsset>(booksPath + "/" + fileName);
+        TextAsset binary = Resources.Load<TextAsset>(booksPath + "/" + fileName);
 
-		if (binary != null && !string.IsNullOrEmpty(binary.text))
-		{
-			pagesList.Clear();
-			pagesList = Pages(binary.text, leftPage);
-			leftPage.text = string.Empty;
-			rightPage.text = string.Empty;
-			LPN.text = string.Empty;
-			RPN.text = string.Empty;
-			nextButton.interactable = true;
-			prevButton.interactable = false;
-			pageCount = -2;
-		}
+        if (binary != null && !string.IsNullOrEmpty(binary.text))
+        {
+            pagesList.Clear();
+            pagesList = Pages(binary.text, leftPage);
+            leftPage.text = string.Empty;
+            rightPage.text = string.Empty;
+            LPN.text = string.Empty;
+            RPN.text = string.Empty;
+            nextButton.interactable = true;
+            prevButton.interactable = false;
+            pageCount = -2;
+        }
 	}
 
 	List<string> Pages(string text, Text page) // определяем на сколько страниц нужно разбить текст

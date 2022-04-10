@@ -31,6 +31,7 @@ public class display : MonoBehaviour
                     Invoke("Blik", 1.0f);
                     CalculatePages.quantityAvailableSentences++;
                     isTaken = true;
+                    WindowHint.HintIsTaken = true;
                 }
             }
             if (Input.GetKeyDown(KeyCode.Escape) && chromeIkon.browserIsOpen == false)
