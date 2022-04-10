@@ -3,35 +3,33 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
+
 public class InventoryButton : MonoBehaviour, IPointerClickHandler
 {
     public Animator DataKnowledgeOpen;
-    public Animator LeftArrowAnimator;
-    public Animator RightArrowAnimator;
-
-    public display Display;
-
-    public static bool DataKnowledgeIsOpen = false;
-
+    public static bool DataKnowledgeIsOpen;
     public void OnPointerClick(PointerEventData eventData)
     {
-        if (DataKnowledgeOpen.GetBool("DataKnowledgeOpen") == false)
-        {
-            DataKnowledgeOpen.SetBool("DataKnowledgeOpen", true);
-            LeftArrowAnimator.SetBool("DataKnowledgeOpen", true);
-            RightArrowAnimator.SetBool("DataKnowledgeOpen", true);
-            DataKnowledgeIsOpen = true;
-        }
+        if (DataKnowledgeOpen.GetBool("BookIsOpen") == false)
+            OpenKnowledgeBase();
+        else
+            CloseKnowledgeBase();
     }
 
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            DataKnowledgeOpen.SetBool("DataKnowledgeOpen", false);
-            LeftArrowAnimator.SetBool("DataKnowledgeOpen", false);
-            RightArrowAnimator.SetBool("DataKnowledgeOpen", false);
-            DataKnowledgeIsOpen = false;
-        }
+            CloseKnowledgeBase();
+    }
+    public void OpenKnowledgeBase()
+    {
+        DataKnowledgeOpen.SetBool("BookIsOpen", true);
+        DataKnowledgeIsOpen = true;
+    }
+
+    public void CloseKnowledgeBase()
+    {
+        DataKnowledgeOpen.SetBool("BookIsOpen", false);
+        DataKnowledgeIsOpen = false;
     }
 }
