@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerRemove : MonoBehaviour
 {
-    public static bool isAction = false;
+    public static bool isAction;
     public float speed;
     public Animator animator;
     private Vector2 direction;
@@ -18,7 +18,7 @@ public class PlayerRemove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (isAction == false)
+        if (!isAction)
         {
             direction.x = Input.GetAxisRaw("Horizontal");
             direction.y = Input.GetAxisRaw("Vertical");
@@ -31,9 +31,6 @@ public class PlayerRemove : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (isAction == false)
-        {
-            rb.MovePosition(rb.position + direction * speed * Time.fixedDeltaTime);
-        }
+        rb.MovePosition(rb.position + direction * speed * Time.fixedDeltaTime);
     }
 }
