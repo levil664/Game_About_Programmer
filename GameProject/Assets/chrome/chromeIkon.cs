@@ -9,7 +9,7 @@ public class chromeIkon : MonoBehaviour, IPointerClickHandler
     public Animator BrowserBlikAnimator;
     public Animator DisplayAnimator;
 
-    private bool closeTrigger;
+    private bool closeTrigger = false;
 
     public void OnPointerClick(PointerEventData eventData)
     {
@@ -29,7 +29,7 @@ public class chromeIkon : MonoBehaviour, IPointerClickHandler
             PlayerRemove.isAction = false;
         }
 
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape) && closeTrigger == false)
         {
             BrowserAnimator.SetBool("browserOpen", false);
             BrowserBlikAnimator.SetBool("browserBlikOpen", false);
