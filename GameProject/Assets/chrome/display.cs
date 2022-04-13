@@ -18,28 +18,17 @@ public class display : MonoBehaviour
 
     void Update()
     {
-        if (switchSpritesComputer.ChromeIsTrigger[index])
+        if (switchSpritesComputer.ChromeIsTrigger[index] && Input.GetKeyDown(KeyCode.E))
         {
-            if (Input.GetKeyDown(KeyCode.E))
+            PlayerRemove.isAction = true;
+            DisplayAnimator.SetBool("displayOpen", true);
+            if (BrowserAnimator.GetBool("browserOpen") == true && isTaken == false)
             {
-                PlayerRemove.isAction = true;
-                DisplayAnimator.SetBool("displayOpen", true);
-                if (chromeIkon.browserIsOpen && isTaken == false)
-                {
-                    BrowserBlikAnimator.SetBool("browserBlikOpen", true);
-                    Invoke("Blik", 1.0f);
-                    CalculatePages.quantityAvailableSentences++;
-                    isTaken = true;
-                    WindowHint.HintIsTaken = true;
-                }
-            }
-
-            if (Input.GetKeyDown(KeyCode.Escape) && chromeIkon.browserIsOpen == false)
-            {
-                BrowserAnimator.SetBool("browserOpen", false);
-                DisplayAnimator.SetBool("displayOpen", false);
-                BrowserBlikAnimator.SetBool("browserBlikOpen", false);
-                PlayerRemove.isAction = false;
+                BrowserBlikAnimator.SetBool("browserBlikOpen", true);
+                Invoke("Blik", 1.0f);
+                CalculatePages.quantityAvailableSentences++;
+                isTaken = true;
+                WindowHint.HintIsTaken = true;
             }
         }
     }
