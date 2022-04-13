@@ -7,6 +7,7 @@ public class chromeIkon : MonoBehaviour, IPointerClickHandler
 {
     public Animator BrowserAnimator;
     public Animator BrowserBlikAnimator;
+    public Animator displayOpen;
 
     public static bool browserIsOpen = false;
 
@@ -25,7 +26,7 @@ public class chromeIkon : MonoBehaviour, IPointerClickHandler
         {
             BrowserAnimator.SetBool("browserOpen", false);
             BrowserBlikAnimator.SetBool("browserBlikOpen", false);
-            browserIsOpen = false;
+            browserIsOpen = false; 
         }
     }
 }
