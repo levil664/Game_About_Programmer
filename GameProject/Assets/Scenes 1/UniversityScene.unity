@@ -2098,7 +2098,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BrowserAnimator: {fileID: 966014294}
   BrowserBlikAnimator: {fileID: 844845751}
-  displayOpen: {fileID: 160662292}
+  DisplayAnimator: {fileID: 160662292}
 --- !u!1 &377160795
 GameObject:
   m_ObjectHideFlags: 0
