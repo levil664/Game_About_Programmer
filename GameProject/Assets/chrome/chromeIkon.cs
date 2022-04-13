@@ -27,6 +27,7 @@ public class chromeIkon : MonoBehaviour, IPointerClickHandler
             BrowserBlikAnimator.SetBool("browserBlikOpen", false);
             DisplayAnimator.SetBool("displayOpen", false);
             PlayerRemove.isAction = false;
+            closeTrigger = false;
         }
 
         if (Input.GetKeyDown(KeyCode.Escape) && closeTrigger == false)
