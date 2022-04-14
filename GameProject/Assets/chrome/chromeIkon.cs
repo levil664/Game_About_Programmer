@@ -9,8 +9,6 @@ public class chromeIkon : MonoBehaviour, IPointerClickHandler
     public Animator BrowserBlikAnimator;
     public Animator DisplayAnimator;
 
-    private bool closeTrigger = false;
-
     public void OnPointerClick(PointerEventData eventData)
     {
         if (BrowserAnimator.GetBool("browserOpen") == false && BrowserBlikAnimator.GetBool("browserBlikOpen") == false)
@@ -21,20 +19,15 @@ public class chromeIkon : MonoBehaviour, IPointerClickHandler
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape) && closeTrigger == true)
+        if (Input.GetKeyDown(KeyCode.Escape) && BrowserAnimator.GetBool("browserOpen") == true)
         {
             BrowserAnimator.SetBool("browserOpen", false);
             BrowserBlikAnimator.SetBool("browserBlikOpen", false);
+        }
+        else if (Input.GetKeyDown(KeyCode.Escape) && BrowserAnimator.GetBool("browserOpen") == false)
+        {
             DisplayAnimator.SetBool("displayOpen", false);
             PlayerRemove.isAction = false;
-            closeTrigger = false;
-        }
-
-        if (Input.GetKeyDown(KeyCode.Escape) && closeTrigger == false)
-        {
-            BrowserAnimator.SetBool("browserOpen", false);
-            BrowserBlikAnimator.SetBool("browserBlikOpen", false);
-            closeTrigger = true;
         }
     }
 }
