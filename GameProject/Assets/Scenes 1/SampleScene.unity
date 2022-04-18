@@ -7474,9 +7474,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 939735370}
-  - component: {fileID: 939735373}
-  - component: {fileID: 939735372}
   - component: {fileID: 939735369}
+  - component: {fileID: 939735372}
   - component: {fileID: 939735371}
   m_Layer: 0
   m_Name: MTSmanDown_0
@@ -7586,19 +7585,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 939735368}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d8fad3758f739741aede2be15784676, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  index: 1
---- !u!114 &939735373
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 939735368}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b4e8614b90bec42aa494f0abd5210c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -7610,19 +7596,23 @@ MonoBehaviour:
   firstButton: {fileID: 1380278133}
   secondButton: {fileID: 540444575}
   thirdButton: {fileID: 903456153}
-  RightAnswers:
-  - ' KTD'
-  - " \u041B\u0435\u0432 "
-  - " \u0415\u041A "
+  rightAnswers:
+  - " \u0415\u041A\u0411 "
+  - " \u0421\u0423\u0421 "
+  - " \u0410\u0440\u0442\u0435\u043C "
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  rightAnswerCompany: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  sprites:
+  - {fileID: 1221224018997044535, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: -5876190543889022859, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: -6404990910898195097, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: -8472848362003263347, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: 3630562216854612670, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: 8614117571379085895, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: -902715507501633827, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  relevanceFlask: {fileID: 1936951935}
   indexCompany: 1
-  ta: {fileID: 4900000, guid: 39387e7f4e3846c44accf06aabfa54a1, type: 3}
+  ta: {fileID: 4900000, guid: e753626b23782524a99b5203299d32a5, type: 3}
   currentNode: 0
   butClicked: 0
 --- !u!1 &1024144790
@@ -18839,7 +18829,6 @@ GameObject:
   - component: {fileID: 1690802958}
   - component: {fileID: 1690802959}
   - component: {fileID: 1690802960}
-  - component: {fileID: 1690802962}
   - component: {fileID: 1690802961}
   m_Layer: 0
   m_Name: Sprite
@@ -18921,13 +18910,37 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1690802957}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9e5b2b1678cb6c64187792117cc1643a, type: 3}
+  m_Script: {fileID: 11500000, guid: 13b4e8614b90bec42aa494f0abd5210c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isStatic: 1
-  offset: 0
+  Window: {fileID: 896544730}
+  text: {fileID: 579122332}
+  firstAnswer: {fileID: 1380278134}
+  secondAnswer: {fileID: 540444576}
+  thirdAnswer: {fileID: 903456154}
+  firstButton: {fileID: 1380278133}
+  secondButton: {fileID: 540444575}
+  thirdButton: {fileID: 903456153}
+  rightAnswers:
+  - ' KTD '
+  - " \u041C\u043E\u0441 "
+  - 
+  rightAnswerCompany: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  sprites:
+  - {fileID: 1221224018997044535, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: -5876190543889022859, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: -6404990910898195097, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: -8472848362003263347, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: 3630562216854612670, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: 8614117571379085895, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  - {fileID: -902715507501633827, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
+  relevanceFlask: {fileID: 1835436228}
+  indexCompany: 0
+  ta: {fileID: 4900000, guid: 39387e7f4e3846c44accf06aabfa54a1, type: 3}
+  currentNode: 0
+  butClicked: 0
 --- !u!61 &1690802961
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18954,19 +18967,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 4.028167, y: 4.7521305}
   m_EdgeRadius: 0
---- !u!114 &1690802962
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1690802957}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d8fad3758f739741aede2be15784676, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  index: 0
 --- !u!1 &1704995331
 GameObject:
   m_ObjectHideFlags: 0
@@ -19377,7 +19377,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1835436229}
   - component: {fileID: 1835436231}
-  - component: {fileID: 1835436230}
   m_Layer: 0
   m_Name: ReputationScale(16x16)_0
   m_TagString: Untagged
@@ -19399,28 +19398,6 @@ Transform:
   m_Father: {fileID: 1690802958}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1835436230
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1835436228}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8fcfb551758cb1a43b8145b50585e467, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sprites:
-  - {fileID: 1221224018997044535, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: -5876190543889022859, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: -6404990910898195097, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: -8472848362003263347, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: 3630562216854612670, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: 8614117571379085895, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: -902715507501633827, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  relevanceFlask: {fileID: 0}
-  rightAnswer: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 --- !u!212 &1835436231
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19659,7 +19636,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1936951936}
   - component: {fileID: 1936951938}
-  - component: {fileID: 1936951937}
   m_Layer: 0
   m_Name: ReputationScale(16x16)_6
   m_TagString: Untagged
@@ -19681,28 +19657,6 @@ Transform:
   m_Father: {fileID: 939735370}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1936951937
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1936951935}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8fcfb551758cb1a43b8145b50585e467, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sprites:
-  - {fileID: 1221224018997044535, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: -5876190543889022859, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: -6404990910898195097, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: -8472848362003263347, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: 3630562216854612670, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: 8614117571379085895, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  - {fileID: -902715507501633827, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
-  relevanceFlask: {fileID: 0}
-  rightAnswer: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 --- !u!212 &1936951938
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19742,7 +19696,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 1221224018997044535, guid: 312d7692a744ecc45b61895cf5a1c70b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

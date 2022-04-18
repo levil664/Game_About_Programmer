@@ -1,12 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 using UnityEngine.UI;
 
 public class InstantiateDialogue : MonoBehaviour
 {
     public GameObject Window;
-
 
     public Text text;
     public Text firstAnswer;
@@ -15,13 +15,14 @@ public class InstantiateDialogue : MonoBehaviour
     public Button firstButton;
     public Button secondButton;
     public Button thirdButton;
-    public List<string> RightAnswers;
+    public List<string> rightAnswers;
+    public List<int> rightAnswerCompany;
+    public Sprite[] sprites;
+    public GameObject relevanceFlask;
+
     public int indexCompany;
 
     bool[] dialogueEnded = new bool[10];
-
-    public static int index = -1;
-    public static int temp = -1;
 
     public TextAsset ta;
 
@@ -31,28 +32,37 @@ public class InstantiateDialogue : MonoBehaviour
     Node[] nd;
     Dialogue dialogue;
 
+    public void UpdateRelevance(int countRightAnswer)
+    {
+        relevanceFlask.GetComponent<SpriteRenderer>().sprite = 
+            sprites[(int)Math.Ceiling((double)countRightAnswer / 2.0)];
+    }
+
     void Start()
     {
         secondButton.enabled = false;
         thirdButton.enabled = false;
         Window.SetActive(false);
-        dialogue = Dialogue.Load(ta);
-        nd = dialogue.nodes;
-
-        text.text = nd[currentNode].Npctext;
-        firstAnswer.text = nd[currentNode].answers[currentNode].text;
-
-        firstButton.onClick.AddListener(but1);
-        secondButton.onClick.AddListener(but2);
-        thirdButton.onClick.AddListener(but3);
-
-        AnswerClicked(31); //14 - для присвоения начальных значений в диалоге что бы не создавать новую функцию
     }
 
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (dialogueEnded[indexCompany] == false)
         {
+            secondButton.enabled = false;
+            thirdButton.enabled = false;
+            Window.SetActive(false);
+            dialogue = Dialogue.Load(ta);
+            nd = dialogue.nodes;
+
+            text.text = nd[currentNode].Npctext;
+            firstAnswer.text = nd[currentNode].answers[currentNode].text;
+
+            firstButton.onClick.AddListener(but1);
+            secondButton.onClick.AddListener(but2);
+            thirdButton.onClick.AddListener(but3);
+
+            AnswerClicked(31);
             Window.SetActive(true);
         }
         else
@@ -96,10 +106,10 @@ public class InstantiateDialogue : MonoBehaviour
                 Window.SetActive(false);
             }
 
-            if (RightAnswers.Contains(dialogue.nodes[currentNode].answers[numberOfButton].text))
+            if (rightAnswers.Contains(dialogue.nodes[currentNode].answers[numberOfButton].text) && !dialogueEnded[indexCompany])
             {
-                index = indexCompany;
-                temp++;
+                rightAnswerCompany[indexCompany]++;
+                UpdateRelevance(rightAnswerCompany[indexCompany]);
             }
 
             currentNode = dialogue.nodes[currentNode].answers[numberOfButton].nextNode;
