@@ -1,0 +1,46 @@
+﻿<dialogue>
+  <node>
+    <npctext> Привет, Как тебя зовут? </npctext>
+    <answers>
+      <answer tonode = "1">
+        <text> KTD </text>
+      </answer>
+      <answer tonode = "1">
+        <text> ЛЕВ </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Хочешь пройти собеседование? </npctext>
+    <answers>
+      <answer tonode = "2">
+        <text> чччч! </text>
+      </answer>
+      <answer tonode = "3">
+        <text> Нет, пока что только готовлюсь! </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Тогда первый вопрос. В каком городе мы сейчас находимся? </npctext>
+    <answers>
+      <answer tonode = "3">
+          <text> ЕК </text>
+      </answer>
+      <answer tonode = "3">
+        <text> Мос </text>
+      </answer>
+      <answer tonode = "3">
+        <text> Оск </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Молодец, хорошего дня! </npctext>
+    <answers>
+      <answer tonode="0">
+        <text> Хорошо, поищу. Спасибо! </text>
+          <dialend>true</dialend> </answer>
+    </answers>
+  </node>
+</dialogue>
