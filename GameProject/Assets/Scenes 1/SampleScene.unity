@@ -2552,7 +2552,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 3.079879
+  orthographic size: 4
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -9953,7 +9953,7 @@ MonoBehaviour:
   m_Follow: {fileID: 1405148069}
   m_Lens:
     FieldOfView: 60
-    OrthographicSize: 3.079879
+    OrthographicSize: 4
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -18156,6 +18156,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   animator: {fileID: 1405148073}
+  pos: {fileID: 11400000, guid: 12fd7a3ac4524c4489447911518e94e3, type: 2}
 --- !u!50 &1405148071
 Rigidbody2D:
   serializedVersion: 4

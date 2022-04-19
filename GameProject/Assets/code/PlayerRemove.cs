@@ -9,10 +9,13 @@ public class PlayerRemove : MonoBehaviour
     public Animator animator;
     private Vector2 direction;
     private Rigidbody2D rb;
+    public VectorValue pos;
     // Start is called before the first frame update
     void Start()
     {
+        
         rb = GetComponent<Rigidbody2D>();
+        transform.position = pos.initialValue;
     }
 
     // Update is called once per frame
