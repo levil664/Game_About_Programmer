@@ -1,46 +1,203 @@
 ﻿<dialogue>
   <node>
-    <npctext> Привет, Как тебя зовут? </npctext>
+    <npctext> Добрый день! Я, Игорь – я представляю компанию Сбербанк. Вы пришли на собеседование? </npctext>
     <answers>
       <answer tonode = "1">
-        <text> KTD </text>
+        <text> Да, здравствуйте! Меня зовут Александр. Я учусь в Уральском федеральном университете по специальности «Информационная безопасность» на втором курсе. </text>
       </answer>
-      <answer tonode = "1">
-        <text> ЛЕВ </text>
+      <answer tonode = "0">
+        <text> Нет, обознался, извините. </text>
+        <offWindow>true</offWindow>
       </answer>
     </answers>
   </node>
   <node>
-    <npctext> Хочешь пройти собеседование? </npctext>
+    <npctext> Отлично! Как вы добрались до нас? Как вам сегодняшний день? </npctext>
     <answers>
       <answer tonode = "2">
-        <text> чччч! </text>
+        <text> Добрался хорошо, сегодня отличная погода и чувствую себя замечательно. </text>
       </answer>
       <answer tonode = "3">
-        <text> Нет, пока что только готовлюсь! </text>
+        <text> Долго добирался, ужасная дорога: сплошные ямы и лужи. </text>
       </answer>
     </answers>
   </node>
   <node>
-    <npctext> Тогда первый вопрос. В каком городе мы сейчас находимся? </npctext>
+    <npctext> Отлично! Давайте тогда начнём!  </npctext>
     <answers>
-      <answer tonode = "3">
-          <text> ЕК </text>
-      </answer>
-      <answer tonode = "3">
-        <text> Мос </text>
-      </answer>
-      <answer tonode = "3">
-        <text> Оск </text>
+      <answer tonode = "4">
+        <text> Хорошо, я готов. </text>
       </answer>
     </answers>
   </node>
   <node>
-    <npctext> Молодец, хорошего дня! </npctext>
+    <npctext> Действительно, погода просто ужасная. Я думаю, что это не помешает тебе успешно пройти наш тест. </npctext>
+    <answers>
+      <answer tonode = "4">
+        <text> Хорошо, я готов. </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Итак, первый вопрос. Начнём с чего-нибудь базового. Что такое состояние защищенности информационных ресурсов от внутренних и внешних угроз, способных нанести ущерб интересам личности, общества, государства? </npctext>
+    <answers>
+      <answer tonode = "5">
+        <text> Защита информации </text>
+      </answer>
+      <answer tonode = "5">
+        <text> Безопасность информации </text>
+      </answer>
+      <answer tonode = "5">
+        <text> Информационная безопасность </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как бы ты назвал свойство объекта сохранять во времени значения всех параметров, характеризующих способность выполнять требуемые функции в заданных режимах и условиях применения, технического обслуживания, ремонта, хранения и транспортировки? </npctext>
+    <answers>
+      <answer tonode = "6">
+        <text> Безопасность </text>
+      </answer>
+      <answer tonode = "6">
+        <text> Надёжность </text>
+      </answer>
+      <answer tonode = "6">
+        <text> Крепость </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Каким выражением можно аппроксимировать старение информации? </npctext>
+    <answers>
+      <answer tonode = "7">
+        <text> C0(t) = C0 exp (-2.3t/tж.ц) </text>
+      </answer>
+      <answer tonode = "7">
+        <text> C0(t) = C0 exp (2.3t/tж.ц) </text>
+      </answer>
+      <answer tonode = "7">
+        <text> C0(t) = C0 exp (tж.ц /(-2.3t)) </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Что находится в центре многозвенной защиты? </npctext>
+    <answers>
+      <answer tonode = "8">
+        <text> Преграда 1 </text>
+      </answer>
+      <answer tonode = "8">
+        <text> Предмет защиты </text>
+      </answer>
+      <answer tonode = "8">
+        <text> Преграда 2 </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как бы ты назвал лицо, предпринявшее попытку выполнения запрещенных операций по ошибке, незнанию или осознанно со злым умыслом или без такового и использующее для этого различные возможности, методы и средства? </npctext>
+    <answers>
+      <answer tonode = "9">
+        <text> Мошенник </text>
+      </answer>
+      <answer tonode = "9">
+        <text> Интернет-вор </text>
+      </answer>
+      <answer tonode = "9">
+        <text> Нарушитель </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Какие существуют классы функциональных требований к ИТ-продукту? </npctext>
+    <answers>
+      <answer tonode = "10">
+        <text> Политика безопасности, Физическая защита ТСв, Удаление ТСв </text>
+      </answer>
+      <answer tonode = "10">
+        <text> Самоконтроль ТСв, Инициализация и восстановление ТСв, Простота использования ТСв </text>
+      </answer>
+      <answer tonode = "10">
+        <text> Мониторинг взаимодействий, Программное обеспечение ТСв, Самоконтроль ТСв </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Сейчас полегче. Какой подход основан на понятии политики безопасности и определении способов гарантирования выполнения её положений? </npctext>
+    <answers>
+      <answer tonode = "11">
+        <text> Формальный </text>
+      </answer>
+      <answer tonode = "11">
+        <text> Конструктивный </text>
+      </answer>
+      <answer tonode = "11">
+        <text> Неформальный </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Назови центры информационной безопасности. </npctext>
+    <answers>
+      <answer tonode = "12">
+        <text> ФСТЭК, Академия криптографии РФ </text>
+      </answer>
+      <answer tonode = "12">
+        <text> МЧС, ФСТЭК </text>
+      </answer>
+      <answer tonode = "12">
+        <text> МЧС, МВД, ФСТЭК </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Что такое деятельность, направленная на предотвращение воздействия на защищаемую информацию ошибок ее пользователя, сбоя технических и программных средств информационных систем, приводящих к искажению информации? </npctext>
+    <answers>
+      <answer tonode = "13">
+        <text> Защита информации от непреднамеренного воздействия </text>
+      </answer>
+      <answer tonode = "13">
+        <text> Защита информации от разглашения </text>
+      </answer>
+      <answer tonode = "13">
+        <text> Защита информации от утечки </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как бы ты назвал открытые или скрытые целенаправленные информационные воздействия систем друг на друга с целью получения определенного выигрыша в материальной, военной, политической или идеологической сферах? </npctext>
+    <answers>
+      <answer tonode = "14">
+        <text> Военные действия </text>
+      </answer>
+      <answer tonode = "14">
+        <text> Программстская кибер-вражда</text>
+      </answer>
+      <answer tonode = "14">
+        <text> Информационная война </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Саша, пока что ты мало знаешь про нашу сферу. Тебе нужно ещё подучиться, не расстраивайся у тебя обязательно получится. </npctext>
     <answers>
       <answer tonode="0">
-        <text> Хорошо, поищу. Спасибо! </text>
-          <dialend>true</dialend> </answer>
+        <text> Спасибо большое за возможность! Я постараюсь усерднее работать, чтобы в следующий раз Вас не подвести. </text>
+        <offWindow>true</offWindow>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Ты прекрасно справился, Саша! Наша компания готова взять тебя на стажировку! Поздравляю! </npctext>
+    <answers>
+      <answer tonode="0">
+        <text> Спасибо большое! Я готов приняться за работу с завтрашнего дня! </text>
+        <dialend>true</dialend>
+      </answer>
+      <answer>
+        <text> Я еще подумаю над вашим предложением. Скоро вернусь</text>
+        <offWindow>true</offWindow>
+      </answer>
     </answers>
   </node>
 </dialogue>

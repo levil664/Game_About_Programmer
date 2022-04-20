@@ -40,6 +40,8 @@ public class Answer
     public int nextNode;
     [XmlElement("text")]
     public string text;
+    [XmlElement("offWindow")]
+    public string offWindow;
     [XmlElement("dialend")]
     public string end;
 }

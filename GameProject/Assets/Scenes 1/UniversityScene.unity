@@ -8578,7 +8578,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   loadBook: MainBook
   booksPath: Books
-  pagesArray: 030000000600000009000000
+  pagesArray: 0800000010000000180000002000000028000000
   leftPage: {fileID: 615643128}
   rightPage: {fileID: 1114045262}
   LPN: {fileID: 649653083}
