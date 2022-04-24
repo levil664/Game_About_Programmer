@@ -1,63 +1,192 @@
 ﻿<dialogue>
   <node>
-    <npctext> Привет, Как тебя зовут? </npctext>
+    <npctext> Добрый день! Я, Дмитрий – представитель компании МТС. Вы пришли на собеседование? </npctext>
     <answers>
       <answer tonode = "1">
-        <text> Артем </text>
+        <text> Да, здравствуйте! Меня зовут Александр. Я учусь в Уральском федеральном университете по специальности «Информационная безопасность». </text>
       </answer>
-      <answer tonode = "1">
-        <text> Глеб </text>
-      </answer>
-      <answer tonode = "1">
-          <text> Александр </text>
+      <answer tonode = "0">
+        <text> Нет, обознался, извините. </text>
+        <offWindow>true</offWindow>
       </answer>
     </answers>
   </node>
   <node>
-    <npctext> Хочешь пройти собеседование? </npctext>
+    <npctext> Сколько лет вы уже обучаетесь по специальности? </npctext>
     <answers>
       <answer tonode = "2">
-        <text> Хочу! </text>
-      </answer>
-      <answer tonode = "4">
-        <text> Нет, пока что только готовлюсь! </text>
+        <text> Я учусь на втором курсе! </text>
       </answer>
     </answers>
   </node>
   <node>
-    <npctext> Тогда первый вопрос. В каком городе мы сейчас находимся? </npctext>
+    <npctext> Отлично! Как вы добрались до нас? Как вам сегодняшний день? </npctext>
     <answers>
       <answer tonode = "3">
-          <text> ЕКБ </text>
-      </answer>
-      <answer tonode = "3">
-        <text> Москва </text>
-      </answer>
-      <answer tonode = "3">
-        <text> Омск </text>
+          <text> Добрался хорошо, сегодня отличная погода и чувствую себя замечательно. </text>
       </answer>
     </answers>
   </node>
   <node>
-    <npctext> АБОБА? </npctext>
+    <npctext> Начнём с простого. Как называют сведения независимо от формы их представления? </npctext>
     <answers>
       <answer tonode = "4">
-        <text> АМОГУС </text>
+        <text> Информация </text>
       </answer>
       <answer tonode = "4">
-        <text> СУС </text>
+        <text> Информационная сеть </text>
       </answer>
       <answer tonode = "4">
-          <text> ХАЙП </text>
+          <text> Файлы </text>
       </answer>
     </answers>
   </node>
   <node>
-    <npctext> Молодец, хорошего дня! </npctext>
+    <npctext> Ага, а как называется деятельность, направленная на предотвращение неконтролируемого распространения защищаемой информации в результате ее разглашения? </npctext>
+    <answers>
+      <answer tonode="5">
+        <text> Защита информации от несанкционированного воздействия </text>
+      </answer>
+      <answer tonode="5">
+        <text> Защита информации от разглашения </text>
+      </answer>
+      <answer tonode="5">
+        <text> Защита информации от утечки </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Ещё вопрос из этой темы. Как называется деятельность, направленная на предотвращение получения защищаемой информации разведкой? </npctext>
+    <answers>
+      <answer tonode="6">
+        <text> Защита информации от разглашения </text>
+      </answer>
+      <answer tonode="6">
+        <text> Защита информации от разведки </text>
+      </answer>
+      <answer tonode="6">
+        <text> Защита информации от утечки </text>
+      </answer> 
+    </answers>
+  </node>
+  <node>
+    <npctext> Как называется совокупность действий, направленных на разработку и практическое применение способов и средств защиты информации? </npctext>
+    <answers>
+      <answer tonode="7">
+        <text> Система защиты информации </text>
+      </answer>
+      <answer tonode="7">
+        <text> Мероприятие по защите информации </text>
+      </answer>
+      <answer tonode="7">
+        <text> Мероприятие по контролю эффективности защиты информации </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как называется совокупность однородных в функциональном отношении мероприятий, регулярно осуществляемых в информационной системе различными средствами и методами в целях создания, поддержания и обеспечения условий, для защиты информации? </npctext>
+    <answers>
+      <answer tonode="8">
+        <text> Функция поиска </text>
+      </answer>
+      <answer tonode="8">
+        <text> Функция обнаружения </text>
+      </answer>
+      <answer tonode="8">
+        <text> Функция защиты </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Какие существуют задачи защиты информации? (выберете подходящий вариант из перечисленных троек) </npctext>
+    <answers>
+      <answer tonode="9">
+        <text> Реагирование, Обнаружение, Маскировка </text>
+      </answer>
+      <answer tonode="9">
+        <text> Маскировка, Уничтожение, Поиск </text>
+      </answer>
+      <answer tonode="9">
+        <text> Маскировка, Уничтожение, Реагирование </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Какие прагматические функции ты знаешь? </npctext>
+    <answers>
+      <answer tonode="10">
+        <text> Важность, Полнота, Достоверность </text>
+      </answer>
+      <answer tonode="10">
+        <text> Своевременность, Компактность, Достоверность </text>
+      </answer>
+      <answer tonode="10">
+        <text> Целесообразность, Оправданность, Важность </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Какие уровни представления информации ты знаешь? </npctext>
+    <answers>
+      <answer tonode="11">
+        <text> Уровень носителей, Семантический уровень, Ситуационный уровень </text>
+      </answer>
+      <answer tonode="11">
+        <text> Логический уровень, Синтаксический уровень, Уровень носителей </text>
+      </answer>
+      <answer tonode="11">
+        <text> Морфологический уровень, Логический уровень, Семантический уровень </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как можно назвать защищаемые государством сведения в области военной, внешнеполитической, экономической, разведывательной, контрразведывательной и оперативно-розыскной деятельности, распространение которых может нанести ущерб безопасности Российской Федерации? </npctext>
+    <answers>
+      <answer tonode="12">
+        <text> Государственная защита </text>
+      </answer>
+      <answer tonode="12">
+        <text> Государственная тайна </text>
+      </answer>
+      <answer tonode="12">
+        <text> Система безопасности </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Итак, последний вопрос. Что составляет законодательную основу обеспечения безопасности? </npctext>
+    <answers>
+      <answer tonode="13">
+        <text> Конституция РФ, Конституция КНР, ФЗ «О безопасности» </text>
+      </answer>
+      <answer tonode="13">
+        <text> Конституция РФ, Нормативные акты о безопасности, Конституции законы других республик </text>
+      </answer>
+      <answer tonode="13">
+        <text> ФЗ « Об информации, ИТ и о защите информации», Конституция РФ, Конституция США </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Саша, к сожалению, я не могу взять тебя на стажировку. Подготовься еще немного и приходи в другой раз. Ты молодец и у тебя всё получится! </npctext>
     <answers>
       <answer tonode="0">
-        <text> Хорошо, поищу. Спасибо! </text>
-          <dialend>true</dialend> </answer>
+        <text> Спасибо большое за возможность! Я постараюсь усерднее работать, чтобы в следующий раз Вас не подвести. </text>
+        <offWindow>true</offWindow>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Вау! Ты отлично справился, Саша! Мы ждём тебя завтра утром, не опаздывай! </npctext>
+    <answers>
+      <answer tonode="0">
+        <text> Да, конечно! Очень жду завтрашний день! </text>
+        <dialend>true</dialend>
+      </answer>
+      <answer>
+        <text> Я еще подумаю над вашим предложением. Скоро вернусь</text>
+        <offWindow>true</offWindow>
+      </answer>
     </answers>
   </node>
 </dialogue>

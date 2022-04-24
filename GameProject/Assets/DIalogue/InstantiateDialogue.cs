@@ -21,12 +21,14 @@ public class InstantiateDialogue : MonoBehaviour
     public GameObject relevanceFlask;
 
     public int indexCompany;
+    public int endDialogueIndex;
 
     bool[] dialogueEnded = new bool[10];
 
     public TextAsset ta;
 
-    [SerializeField] public int currentNode = 0;
+    [SerializeField]
+    public int currentNode = 0;
     public int butClicked;
     bool textSet = false;
     Node[] nd;
@@ -34,8 +36,15 @@ public class InstantiateDialogue : MonoBehaviour
 
     public void UpdateRelevance(int countRightAnswer)
     {
-        relevanceFlask.GetComponent<SpriteRenderer>().sprite = 
-            sprites[(int)Math.Ceiling((double)countRightAnswer / 2.0)];
+        if (countRightAnswer >= 8)
+        {
+            relevanceFlask.GetComponent<SpriteRenderer>().sprite = sprites[6];
+        }
+        else
+        {
+            relevanceFlask.GetComponent<SpriteRenderer>().sprite =
+                sprites[(int)Math.Ceiling((double)countRightAnswer / 1.5)];
+        }
     }
 
     void Start()
@@ -43,31 +52,25 @@ public class InstantiateDialogue : MonoBehaviour
         secondButton.enabled = false;
         thirdButton.enabled = false;
         Window.SetActive(false);
+
+        dialogue = Dialogue.Load(ta);
+        nd = dialogue.nodes;
+        text.text = nd[currentNode].Npctext;
+        firstAnswer.text = nd[currentNode].answers[currentNode].text;
     }
 
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (dialogueEnded[indexCompany] == false)
         {
-            secondButton.enabled = false;
-            thirdButton.enabled = false;
-            Window.SetActive(false);
-            dialogue = Dialogue.Load(ta);
-            nd = dialogue.nodes;
-
-            text.text = nd[currentNode].Npctext;
-            firstAnswer.text = nd[currentNode].answers[currentNode].text;
-
+            PlayerRemove.isAction = true;
+            
             firstButton.onClick.AddListener(but1);
             secondButton.onClick.AddListener(but2);
             thirdButton.onClick.AddListener(but3);
 
             AnswerClicked(31);
             Window.SetActive(true);
-        }
-        else
-        {
-            Window.SetActive(false);
         }
     }
 
@@ -100,8 +103,14 @@ public class InstantiateDialogue : MonoBehaviour
             currentNode = 0;
         else
         {
-            if (dialogue.nodes[currentNode].answers[numberOfButton].end == "true")
+            if (dialogue.nodes[currentNode].answers[numberOfButton].offWindow == "true")
             {
+                PlayerRemove.isAction = false;
+                Window.SetActive(false);
+            }
+            else if (dialogue.nodes[currentNode].answers[numberOfButton].end == "true")
+            {
+                PlayerRemove.isAction = false;
                 dialogueEnded[indexCompany] = true;
                 Window.SetActive(false);
             }
@@ -112,7 +121,14 @@ public class InstantiateDialogue : MonoBehaviour
                 UpdateRelevance(rightAnswerCompany[indexCompany]);
             }
 
-            currentNode = dialogue.nodes[currentNode].answers[numberOfButton].nextNode;
+            if (rightAnswerCompany[indexCompany] >= 8)
+            {
+                currentNode = endDialogueIndex;
+            }
+            else
+            {
+                currentNode = dialogue.nodes[currentNode].answers[numberOfButton].nextNode;
+            }
         }
 
         text.text = dialogue.nodes[currentNode].Npctext;
