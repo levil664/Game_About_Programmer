@@ -1,0 +1,4509 @@
+fileFormatVersion: 2
+guid: 7ec271b741709154fb2697576ff5c89f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6853111477068941180
+    second: WallsAndFloorsTile(16x16)_0
+  - first:
+      213: 718988175323570680
+    second: WallsAndFloorsTile(16x16)_1
+  - first:
+      213: 9086739422872258922
+    second: WallsAndFloorsTile(16x16)_2
+  - first:
+      213: 3249220287860443341
+    second: WallsAndFloorsTile(16x16)_3
+  - first:
+      213: 5102391670481284262
+    second: WallsAndFloorsTile(16x16)_4
+  - first:
+      213: -2969859222777456738
+    second: WallsAndFloorsTile(16x16)_5
+  - first:
+      213: -5184298318875276843
+    second: WallsAndFloorsTile(16x16)_6
+  - first:
+      213: 4865730224953397356
+    second: WallsAndFloorsTile(16x16)_7
+  - first:
+      213: -6245365631257680054
+    second: WallsAndFloorsTile(16x16)_8
+  - first:
+      213: -4889247695356646297
+    second: WallsAndFloorsTile(16x16)_9
+  - first:
+      213: 7692460246927939493
+    second: WallsAndFloorsTile(16x16)_10
+  - first:
+      213: 2383733653599759327
+    second: WallsAndFloorsTile(16x16)_11
+  - first:
+      213: 4134266140614623442
+    second: WallsAndFloorsTile(16x16)_12
+  - first:
+      213: 8987518919032872266
+    second: WallsAndFloorsTile(16x16)_13
+  - first:
+      213: 3921948928733775703
+    second: WallsAndFloorsTile(16x16)_14
+  - first:
+      213: -6327007136736580582
+    second: WallsAndFloorsTile(16x16)_15
+  - first:
+      213: -1482086827155840923
+    second: WallsAndFloorsTile(16x16)_16
+  - first:
+      213: 3227765103617322348
+    second: WallsAndFloorsTile(16x16)_17
+  - first:
+      213: -2884885841345088277
+    second: WallsAndFloorsTile(16x16)_18
+  - first:
+      213: 4558990287665989120
+    second: WallsAndFloorsTile(16x16)_19
+  - first:
+      213: 8047100584569054310
+    second: WallsAndFloorsTile(16x16)_20
+  - first:
+      213: 8131996620886440083
+    second: WallsAndFloorsTile(16x16)_21
+  - first:
+      213: -6978572617731439185
+    second: WallsAndFloorsTile(16x16)_22
+  - first:
+      213: -2101761900946604508
+    second: WallsAndFloorsTile(16x16)_23
+  - first:
+      213: -7138449109643486060
+    second: WallsAndFloorsTile(16x16)_24
+  - first:
+      213: 8661175796470442102
+    second: WallsAndFloorsTile(16x16)_25
+  - first:
+      213: 2528734570811960596
+    second: WallsAndFloorsTile(16x16)_26
+  - first:
+      213: -5505565587400667547
+    second: WallsAndFloorsTile(16x16)_27
+  - first:
+      213: -5452955106922519778
+    second: WallsAndFloorsTile(16x16)_28
+  - first:
+      213: 684025484426519337
+    second: WallsAndFloorsTile(16x16)_29
+  - first:
+      213: -6463101056706052284
+    second: WallsAndFloorsTile(16x16)_30
+  - first:
+      213: -8487462647833894096
+    second: WallsAndFloorsTile(16x16)_31
+  - first:
+      213: 1089987179716243259
+    second: WallsAndFloorsTile(16x16)_32
+  - first:
+      213: -2277843533876661437
+    second: WallsAndFloorsTile(16x16)_33
+  - first:
+      213: 530636795449345621
+    second: WallsAndFloorsTile(16x16)_34
+  - first:
+      213: -6623164719785018189
+    second: WallsAndFloorsTile(16x16)_35
+  - first:
+      213: 8747097407503220577
+    second: WallsAndFloorsTile(16x16)_36
+  - first:
+      213: 7086510393945673365
+    second: WallsAndFloorsTile(16x16)_37
+  - first:
+      213: 3987578373975519866
+    second: WallsAndFloorsTile(16x16)_38
+  - first:
+      213: 7788073794023897836
+    second: WallsAndFloorsTile(16x16)_39
+  - first:
+      213: 1076289280022128927
+    second: WallsAndFloorsTile(16x16)_40
+  - first:
+      213: 6909314352550043077
+    second: WallsAndFloorsTile(16x16)_41
+  - first:
+      213: 7193064742626087790
+    second: WallsAndFloorsTile(16x16)_42
+  - first:
+      213: 1010445915172568951
+    second: WallsAndFloorsTile(16x16)_43
+  - first:
+      213: 1577418458711445778
+    second: WallsAndFloorsTile(16x16)_44
+  - first:
+      213: -4325241629952152138
+    second: WallsAndFloorsTile(16x16)_45
+  - first:
+      213: 1286574521922301708
+    second: WallsAndFloorsTile(16x16)_46
+  - first:
+      213: -5286780492980796703
+    second: WallsAndFloorsTile(16x16)_47
+  - first:
+      213: 8415909084802227660
+    second: WallsAndFloorsTile(16x16)_48
+  - first:
+      213: -7124909119029835261
+    second: WallsAndFloorsTile(16x16)_49
+  - first:
+      213: 3487780724489184188
+    second: WallsAndFloorsTile(16x16)_50
+  - first:
+      213: -7674732614004102552
+    second: WallsAndFloorsTile(16x16)_51
+  - first:
+      213: 4077707354159334009
+    second: WallsAndFloorsTile(16x16)_52
+  - first:
+      213: 3973067808559230560
+    second: WallsAndFloorsTile(16x16)_53
+  - first:
+      213: -1963563325105433554
+    second: WallsAndFloorsTile(16x16)_54
+  - first:
+      213: -6169719548600300888
+    second: WallsAndFloorsTile(16x16)_55
+  - first:
+      213: 7952307013189545575
+    second: WallsAndFloorsTile(16x16)_56
+  - first:
+      213: 8270177201533378228
+    second: WallsAndFloorsTile(16x16)_57
+  - first:
+      213: 5516912969143077944
+    second: WallsAndFloorsTile(16x16)_58
+  - first:
+      213: -191366431540622442
+    second: WallsAndFloorsTile(16x16)_59
+  - first:
+      213: -7591483221939663702
+    second: WallsAndFloorsTile(16x16)_60
+  - first:
+      213: 7391659791725071004
+    second: WallsAndFloorsTile(16x16)_61
+  - first:
+      213: 8873363460672186347
+    second: WallsAndFloorsTile(16x16)_62
+  - first:
+      213: -6029510478894139487
+    second: WallsAndFloorsTile(16x16)_63
+  - first:
+      213: 2602332397538527427
+    second: WallsAndFloorsTile(16x16)_64
+  - first:
+      213: 2054044009946469191
+    second: WallsAndFloorsTile(16x16)_65
+  - first:
+      213: 8710311538765814221
+    second: WallsAndFloorsTile(16x16)_66
+  - first:
+      213: -7097809499635564322
+    second: WallsAndFloorsTile(16x16)_67
+  - first:
+      213: 6042451279086146867
+    second: WallsAndFloorsTile(16x16)_68
+  - first:
+      213: -6238674647549472215
+    second: WallsAndFloorsTile(16x16)_69
+  - first:
+      213: -5358559316719179717
+    second: WallsAndFloorsTile(16x16)_70
+  - first:
+      213: -600839663840994540
+    second: WallsAndFloorsTile(16x16)_71
+  - first:
+      213: -660342269168226642
+    second: WallsAndFloorsTile(16x16)_72
+  - first:
+      213: -8549721642148525341
+    second: WallsAndFloorsTile(16x16)_73
+  - first:
+      213: 1076234906006933711
+    second: WallsAndFloorsTile(16x16)_74
+  - first:
+      213: 8257617779820159575
+    second: WallsAndFloorsTile(16x16)_75
+  - first:
+      213: 3054788567894084309
+    second: WallsAndFloorsTile(16x16)_76
+  - first:
+      213: 636506630843521884
+    second: WallsAndFloorsTile(16x16)_77
+  - first:
+      213: -8550582634180385011
+    second: WallsAndFloorsTile(16x16)_78
+  - first:
+      213: 1303265168061395122
+    second: WallsAndFloorsTile(16x16)_79
+  - first:
+      213: 5395857164217237691
+    second: WallsAndFloorsTile(16x16)_80
+  - first:
+      213: -6025683363201914625
+    second: WallsAndFloorsTile(16x16)_81
+  - first:
+      213: 2297712417167100703
+    second: WallsAndFloorsTile(16x16)_82
+  - first:
+      213: -8825083443148673899
+    second: WallsAndFloorsTile(16x16)_83
+  - first:
+      213: -524866913882516591
+    second: WallsAndFloorsTile(16x16)_84
+  - first:
+      213: -7715262617907513480
+    second: WallsAndFloorsTile(16x16)_85
+  - first:
+      213: -4711289201027214549
+    second: WallsAndFloorsTile(16x16)_86
+  - first:
+      213: -8707330161077112289
+    second: WallsAndFloorsTile(16x16)_87
+  - first:
+      213: 1026069455713304868
+    second: WallsAndFloorsTile(16x16)_88
+  - first:
+      213: 1922545226990328913
+    second: WallsAndFloorsTile(16x16)_89
+  - first:
+      213: 6842941723701878850
+    second: WallsAndFloorsTile(16x16)_90
+  - first:
+      213: -4870043814735137649
+    second: WallsAndFloorsTile(16x16)_91
+  - first:
+      213: 6915463621101161857
+    second: WallsAndFloorsTile(16x16)_92
+  - first:
+      213: 8948862564677459481
+    second: WallsAndFloorsTile(16x16)_93
+  - first:
+      213: 8566160400967948565
+    second: WallsAndFloorsTile(16x16)_94
+  - first:
+      213: 7223591306610371735
+    second: WallsAndFloorsTile(16x16)_95
+  - first:
+      213: -2130195405924639661
+    second: WallsAndFloorsTile(16x16)_96
+  - first:
+      213: -6955301694371438591
+    second: WallsAndFloorsTile(16x16)_97
+  - first:
+      213: -815412633179354593
+    second: WallsAndFloorsTile(16x16)_98
+  - first:
+      213: 3195217560742656532
+    second: WallsAndFloorsTile(16x16)_99
+  - first:
+      213: -570954922622009562
+    second: WallsAndFloorsTile(16x16)_100
+  - first:
+      213: -5468496230966079095
+    second: WallsAndFloorsTile(16x16)_101
+  - first:
+      213: 3015588152758072046
+    second: WallsAndFloorsTile(16x16)_102
+  - first:
+      213: -6881807676125792451
+    second: WallsAndFloorsTile(16x16)_103
+  - first:
+      213: 198885232749182240
+    second: WallsAndFloorsTile(16x16)_104
+  - first:
+      213: -1110437624460303236
+    second: WallsAndFloorsTile(16x16)_105
+  - first:
+      213: -5872933201084232903
+    second: WallsAndFloorsTile(16x16)_106
+  - first:
+      213: 7486171321974690151
+    second: WallsAndFloorsTile(16x16)_107
+  - first:
+      213: -4809693132871382296
+    second: WallsAndFloorsTile(16x16)_108
+  - first:
+      213: -8868502314645634100
+    second: WallsAndFloorsTile(16x16)_109
+  - first:
+      213: -4612087224724268830
+    second: WallsAndFloorsTile(16x16)_110
+  - first:
+      213: -515980870938008304
+    second: WallsAndFloorsTile(16x16)_111
+  - first:
+      213: 3085404755218491705
+    second: WallsAndFloorsTile(16x16)_112
+  - first:
+      213: 2357023423100906816
+    second: WallsAndFloorsTile(16x16)_113
+  - first:
+      213: 4382474309600388506
+    second: WallsAndFloorsTile(16x16)_114
+  - first:
+      213: 7479231704684354409
+    second: WallsAndFloorsTile(16x16)_115
+  - first:
+      213: 2210852608712464347
+    second: WallsAndFloorsTile(16x16)_116
+  - first:
+      213: 7970114588075044576
+    second: WallsAndFloorsTile(16x16)_117
+  - first:
+      213: -9085783540528399862
+    second: WallsAndFloorsTile(16x16)_118
+  - first:
+      213: -2963617259109282253
+    second: WallsAndFloorsTile(16x16)_119
+  - first:
+      213: -5874431974681306987
+    second: WallsAndFloorsTile(16x16)_120
+  - first:
+      213: -6333704974551312727
+    second: WallsAndFloorsTile(16x16)_121
+  - first:
+      213: 1964903611742519583
+    second: WallsAndFloorsTile(16x16)_122
+  - first:
+      213: 8656502607439306229
+    second: WallsAndFloorsTile(16x16)_123
+  - first:
+      213: 3741426643472163897
+    second: WallsAndFloorsTile(16x16)_124
+  - first:
+      213: -988313057629018408
+    second: WallsAndFloorsTile(16x16)_125
+  - first:
+      213: -1925269893508451387
+    second: WallsAndFloorsTile(16x16)_126
+  - first:
+      213: -5075692947592974696
+    second: WallsAndFloorsTile(16x16)_127
+  - first:
+      213: -6613772280597185649
+    second: WallsAndFloorsTile(16x16)_128
+  - first:
+      213: -7460739764394408028
+    second: WallsAndFloorsTile(16x16)_129
+  - first:
+      213: 4351058509958041570
+    second: WallsAndFloorsTile(16x16)_130
+  - first:
+      213: 872370162935353870
+    second: WallsAndFloorsTile(16x16)_131
+  - first:
+      213: 1735669835718379060
+    second: WallsAndFloorsTile(16x16)_132
+  - first:
+      213: -8878728170839623868
+    second: WallsAndFloorsTile(16x16)_133
+  - first:
+      213: 7009112592482153686
+    second: WallsAndFloorsTile(16x16)_134
+  - first:
+      213: -5404668309589324869
+    second: WallsAndFloorsTile(16x16)_135
+  - first:
+      213: -3464743485678818515
+    second: WallsAndFloorsTile(16x16)_136
+  - first:
+      213: 4882057636304119823
+    second: WallsAndFloorsTile(16x16)_137
+  - first:
+      213: 6779090379449750912
+    second: WallsAndFloorsTile(16x16)_138
+  - first:
+      213: -4230712609914865853
+    second: WallsAndFloorsTile(16x16)_139
+  - first:
+      213: -7578086128566486886
+    second: WallsAndFloorsTile(16x16)_140
+  - first:
+      213: -7978720430952254706
+    second: WallsAndFloorsTile(16x16)_141
+  - first:
+      213: 616836047641802341
+    second: WallsAndFloorsTile(16x16)_142
+  - first:
+      213: 1878530563896117536
+    second: WallsAndFloorsTile(16x16)_143
+  - first:
+      213: 206576897733943060
+    second: WallsAndFloorsTile(16x16)_144
+  - first:
+      213: 8817799131973009173
+    second: WallsAndFloorsTile(16x16)_145
+  - first:
+      213: 7433344147082317737
+    second: WallsAndFloorsTile(16x16)_146
+  - first:
+      213: 7129731377440415145
+    second: WallsAndFloorsTile(16x16)_147
+  - first:
+      213: 1647108458805340889
+    second: WallsAndFloorsTile(16x16)_148
+  - first:
+      213: 6269215983908292462
+    second: WallsAndFloorsTile(16x16)_149
+  - first:
+      213: -413821167288973234
+    second: WallsAndFloorsTile(16x16)_150
+  - first:
+      213: -60484489499464716
+    second: WallsAndFloorsTile(16x16)_151
+  - first:
+      213: -13620106836556928
+    second: WallsAndFloorsTile(16x16)_152
+  - first:
+      213: 6866181134712912764
+    second: WallsAndFloorsTile(16x16)_153
+  - first:
+      213: 9082812010213435515
+    second: WallsAndFloorsTile(16x16)_154
+  - first:
+      213: -5744446491584070676
+    second: WallsAndFloorsTile(16x16)_155
+  - first:
+      213: 7896091888215763015
+    second: WallsAndFloorsTile(16x16)_156
+  - first:
+      213: -7181689846038588564
+    second: WallsAndFloorsTile(16x16)_157
+  - first:
+      213: -8149753524134753827
+    second: WallsAndFloorsTile(16x16)_158
+  - first:
+      213: 3650456779922814838
+    second: WallsAndFloorsTile(16x16)_159
+  - first:
+      213: -2412638223915058858
+    second: WallsAndFloorsTile(16x16)_160
+  - first:
+      213: 8684684643361409244
+    second: WallsAndFloorsTile(16x16)_161
+  - first:
+      213: 3528526009655956923
+    second: WallsAndFloorsTile(16x16)_162
+  - first:
+      213: 1792245618284844177
+    second: WallsAndFloorsTile(16x16)_163
+  - first:
+      213: -5066745131737025470
+    second: WallsAndFloorsTile(16x16)_164
+  - first:
+      213: 6234881741781578786
+    second: WallsAndFloorsTile(16x16)_165
+  - first:
+      213: 4943785455304709207
+    second: WallsAndFloorsTile(16x16)_166
+  - first:
+      213: -6548654314921471295
+    second: WallsAndFloorsTile(16x16)_167
+  - first:
+      213: 7262427833528044432
+    second: WallsAndFloorsTile(16x16)_168
+  - first:
+      213: 4140498963564781656
+    second: WallsAndFloorsTile(16x16)_169
+  - first:
+      213: 5983030120836747206
+    second: WallsAndFloorsTile(16x16)_170
+  - first:
+      213: -2481020671742022175
+    second: WallsAndFloorsTile(16x16)_171
+  - first:
+      213: 4176621434283453247
+    second: WallsAndFloorsTile(16x16)_172
+  - first:
+      213: 2610814652092517056
+    second: WallsAndFloorsTile(16x16)_173
+  - first:
+      213: -1724311720142372691
+    second: WallsAndFloorsTile(16x16)_174
+  - first:
+      213: -212687489281410428
+    second: WallsAndFloorsTile(16x16)_175
+  - first:
+      213: 5342794199684204591
+    second: WallsAndFloorsTile(16x16)_176
+  - first:
+      213: 287517341664586419
+    second: WallsAndFloorsTile(16x16)_177
+  - first:
+      213: -3809619259253599036
+    second: WallsAndFloorsTile(16x16)_178
+  - first:
+      213: 1476425268792364801
+    second: WallsAndFloorsTile(16x16)_179
+  - first:
+      213: -8636712467351464509
+    second: WallsAndFloorsTile(16x16)_180
+  - first:
+      213: -5254472799285039662
+    second: WallsAndFloorsTile(16x16)_181
+  - first:
+      213: 3282513297979362103
+    second: WallsAndFloorsTile(16x16)_182
+  - first:
+      213: 8742507571779669000
+    second: WallsAndFloorsTile(16x16)_183
+  - first:
+      213: 7471954416529003252
+    second: WallsAndFloorsTile(16x16)_184
+  - first:
+      213: -3782848331131908711
+    second: WallsAndFloorsTile(16x16)_185
+  - first:
+      213: -3663774654497256913
+    second: WallsAndFloorsTile(16x16)_186
+  - first:
+      213: -8249086062569633387
+    second: WallsAndFloorsTile(16x16)_187
+  - first:
+      213: 3248774945338968099
+    second: WallsAndFloorsTile(16x16)_188
+  - first:
+      213: 6293013955363839406
+    second: WallsAndFloorsTile(16x16)_189
+  - first:
+      213: 321564967696800109
+    second: WallsAndFloorsTile(16x16)_190
+  - first:
+      213: -7641950981199885490
+    second: WallsAndFloorsTile(16x16)_191
+  - first:
+      213: 7021969233799181399
+    second: WallsAndFloorsTile(16x16)_192
+  - first:
+      213: 4276727438126283154
+    second: WallsAndFloorsTile(16x16)_193
+  - first:
+      213: -4150147876154775194
+    second: WallsAndFloorsTile(16x16)_194
+  - first:
+      213: -6815513846360677886
+    second: WallsAndFloorsTile(16x16)_195
+  - first:
+      213: -5307292109528923577
+    second: WallsAndFloorsTile(16x16)_196
+  - first:
+      213: 7848053573633127258
+    second: WallsAndFloorsTile(16x16)_197
+  - first:
+      213: 1601457510097781541
+    second: WallsAndFloorsTile(16x16)_198
+  - first:
+      213: -2601087098442969503
+    second: WallsAndFloorsTile(16x16)_199
+  - first:
+      213: -3805525171180527989
+    second: WallsAndFloorsTile(16x16)_200
+  - first:
+      213: -5895261949369608291
+    second: WallsAndFloorsTile(16x16)_201
+  - first:
+      213: 4183108997198812213
+    second: WallsAndFloorsTile(16x16)_202
+  - first:
+      213: -3493012866500146569
+    second: WallsAndFloorsTile(16x16)_203
+  - first:
+      213: 4467458499651007428
+    second: WallsAndFloorsTile(16x16)_204
+  - first:
+      213: 1146001323995101719
+    second: WallsAndFloorsTile(16x16)_205
+  - first:
+      213: 972792726709675755
+    second: WallsAndFloorsTile(16x16)_206
+  - first:
+      213: 8763276469542695299
+    second: WallsAndFloorsTile(16x16)_207
+  - first:
+      213: 3651522934341510003
+    second: WallsAndFloorsTile(16x16)_208
+  - first:
+      213: 6597115009753030309
+    second: WallsAndFloorsTile(16x16)_209
+  - first:
+      213: -3839115733034011415
+    second: WallsAndFloorsTile(16x16)_210
+  - first:
+      213: -6418396339481190860
+    second: WallsAndFloorsTile(16x16)_211
+  - first:
+      213: -85622970123088270
+    second: WallsAndFloorsTile(16x16)_212
+  - first:
+      213: 6216334837121460631
+    second: WallsAndFloorsTile(16x16)_213
+  - first:
+      213: -7349427353397434293
+    second: WallsAndFloorsTile(16x16)_214
+  - first:
+      213: 2354200674576688140
+    second: WallsAndFloorsTile(16x16)_215
+  - first:
+      213: 4744386619537421795
+    second: WallsAndFloorsTile(16x16)_216
+  - first:
+      213: 321364730476320584
+    second: WallsAndFloorsTile(16x16)_217
+  - first:
+      213: -1914325772848258880
+    second: WallsAndFloorsTile(16x16)_218
+  - first:
+      213: -2406506851828736084
+    second: WallsAndFloorsTile(16x16)_219
+  - first:
+      213: -682602783607547396
+    second: WallsAndFloorsTile(16x16)_220
+  - first:
+      213: 5163259423739097113
+    second: WallsAndFloorsTile(16x16)_221
+  - first:
+      213: 7649401880888364435
+    second: WallsAndFloorsTile(16x16)_222
+  - first:
+      213: 4731663334125522872
+    second: WallsAndFloorsTile(16x16)_223
+  - first:
+      213: 2788031002386827371
+    second: WallsAndFloorsTile(16x16)_224
+  - first:
+      213: -4003400820716805463
+    second: WallsAndFloorsTile(16x16)_225
+  - first:
+      213: 1294605446867796466
+    second: WallsAndFloorsTile(16x16)_226
+  - first:
+      213: 7435650995990383
+    second: WallsAndFloorsTile(16x16)_227
+  - first:
+      213: 1768445648917493218
+    second: WallsAndFloorsTile(16x16)_228
+  - first:
+      213: 1171476019755444550
+    second: WallsAndFloorsTile(16x16)_229
+  - first:
+      213: -4124927942068204464
+    second: WallsAndFloorsTile(16x16)_230
+  - first:
+      213: 4304371123642916422
+    second: WallsAndFloorsTile(16x16)_231
+  - first:
+      213: 7501572475841296325
+    second: WallsAndFloorsTile(16x16)_232
+  - first:
+      213: -7300337054547872138
+    second: WallsAndFloorsTile(16x16)_233
+  - first:
+      213: 9211025174702405941
+    second: WallsAndFloorsTile(16x16)_234
+  - first:
+      213: -1398175680917223425
+    second: WallsAndFloorsTile(16x16)_235
+  - first:
+      213: -1232568861469296500
+    second: WallsAndFloorsTile(16x16)_236
+  - first:
+      213: -3933904546386293640
+    second: WallsAndFloorsTile(16x16)_237
+  - first:
+      213: 7929720740475777246
+    second: WallsAndFloorsTile(16x16)_238
+  - first:
+      213: -6752524622111526304
+    second: WallsAndFloorsTile(16x16)_239
+  - first:
+      213: 4073037886076694167
+    second: WallsAndFloorsTile(16x16)_240
+  - first:
+      213: 8023528947079807502
+    second: WallsAndFloorsTile(16x16)_241
+  - first:
+      213: -8569251145347291731
+    second: WallsAndFloorsTile(16x16)_242
+  - first:
+      213: 8731113475989502401
+    second: WallsAndFloorsTile(16x16)_243
+  - first:
+      213: -6934175226760349165
+    second: WallsAndFloorsTile(16x16)_244
+  - first:
+      213: 5955062045920329753
+    second: WallsAndFloorsTile(16x16)_245
+  - first:
+      213: 9101245573616362586
+    second: WallsAndFloorsTile(16x16)_246
+  - first:
+      213: 4669684339889138791
+    second: WallsAndFloorsTile(16x16)_247
+  - first:
+      213: -4258078670696119273
+    second: WallsAndFloorsTile(16x16)_248
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4883723cb6bd4e0a0800000000000000
+      internalID: -6853111477068941180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f12ed3afeb5af900800000000000000
+      internalID: 718988175323570680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69c6da8c559a1e70800000000000000
+      internalID: 9086739422872258922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc80aeef2ac871d20800000000000000
+      internalID: 3249220287860443341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ace2ffc0365fc640800000000000000
+      internalID: 5102391670481284262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e979e6995c0f8c6d0800000000000000
+      internalID: -2969859222777456738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c8c5852cad08b0800000000000000
+      internalID: -5184298318875276843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609a3f1cdb868340800000000000000
+      internalID: 4865730224953397356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e3783c010459a0800000000000000
+      internalID: -6245365631257680054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cae5b1027e52cb0800000000000000
+      internalID: -4889247695356646297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a714f296db11ca60800000000000000
+      internalID: 7692460246927939493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb25fdd029b41120800000000000000
+      internalID: 2383733653599759327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0824e862ddf5930800000000000000
+      internalID: 4134266140614623442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9e05c6d41abc70800000000000000
+      internalID: 8987518919032872266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757866475cf8d6630800000000000000
+      internalID: 3921948928733775703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c6473f784f138a0800000000000000
+      internalID: -6327007136736580582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560271512e19e6be0800000000000000
+      internalID: -1482086827155840923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2383a2435bcc20800000000000000
+      internalID: 3227765103617322348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be47211bc93d6f7d0800000000000000
+      internalID: -2884885841345088277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00689c61389c44f30800000000000000
+      internalID: 4558990287665989120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664a317a85b0daf60800000000000000
+      internalID: 8047100584569054310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398fc9e67d7aad070800000000000000
+      internalID: 8131996620886440083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa589d0ad21272f90800000000000000
+      internalID: -6978572617731439185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb0abcfaa05d2e0800000000000000
+      internalID: -2101761900946604508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c1f7c1b522fec90800000000000000
+      internalID: -7138449109643486060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678e4dd7f7da23870800000000000000
+      internalID: 8661175796470442102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d2f70c1bed71320800000000000000
+      internalID: 2528734570811960596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e4e5b944d4893b0800000000000000
+      internalID: -5505565587400667547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e132bb3a8363354b0800000000000000
+      internalID: -5452955106922519778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923ae80dd852e7900800000000000000
+      internalID: 684025484426519337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f7597f4d37e46a0800000000000000
+      internalID: -6463101056706052284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e677b0b9763a80800000000000000
+      internalID: -8487462647833894096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f67b0a099602f00800000000000000
+      internalID: 1089987179716243259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3437c5ddf597360e0800000000000000
+      internalID: -2277843533876661437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568281aa533d5700800000000000000
+      internalID: 530636795449345621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc705447cac514a0800000000000000
+      internalID: -6623164719785018189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f38fd7fbee36970800000000000000
+      internalID: 8747097407503220577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ece3848a7585260800000000000000
+      internalID: 7086510393945673365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7237de6769b65730800000000000000
+      internalID: 3987578373975519866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceab2594adbc41c60800000000000000
+      internalID: 7788073794023897836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_40
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19a743d56fbfee00800000000000000
+      internalID: 1076289280022128927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdd049ebc0d2ef50800000000000000
+      internalID: 6909314352550043077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e635d9ed546e2d360800000000000000
+      internalID: 7193064742626087790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ffa9ec433d50e00800000000000000
+      internalID: 1010445915172568951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_44
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211d3ad0bbd14e510800000000000000
+      internalID: 1577418458711445778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd68f657a7a9f3c0800000000000000
+      internalID: -4325241629952152138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2f3c06b4dad110800000000000000
+      internalID: 1286574521922301708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e24a66f62591a6b0800000000000000
+      internalID: -5286780492980796703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd9e9529b05bc470800000000000000
+      internalID: 8415909084802227660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a0947d7ec3f1d90800000000000000
+      internalID: -7124909119029835261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e1a10716176030800000000000000
+      internalID: 3487780724489184188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a2e2c995fdd7590800000000000000
+      internalID: -7674732614004102552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9724aa6eb3de69830800000000000000
+      internalID: 4077707354159334009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e66b52f1c232730800000000000000
+      internalID: 3973067808559230560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e241b192f8500c4e0800000000000000
+      internalID: -1963563325105433554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa45e552c0c06aa0800000000000000
+      internalID: -6169719548600300888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea20a68154c5e60800000000000000
+      internalID: 7952307013189545575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be5ee6f85295c270800000000000000
+      internalID: 8270177201533378228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_58
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc4869d13009c40800000000000000
+      internalID: 5516912969143077944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_59
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b46129e31285df0800000000000000
+      internalID: -191366431540622442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacc2f52b32a5a690800000000000000
+      internalID: -7591483221939663702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a8f4afa63749660800000000000000
+      internalID: 7391659791725071004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_62
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7eb4ced05842b70800000000000000
+      internalID: 8873363460672186347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7f4084a20e25ca0800000000000000
+      internalID: -6029510478894139487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c846ce17875d1420800000000000000
+      internalID: 2602332397538527427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_65
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743d0ede42e618c10800000000000000
+      internalID: 2054044009946469191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_66
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc95f1ff13e31e870800000000000000
+      internalID: 8710311538765814221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_67
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed044daadd38f7d90800000000000000
+      internalID: -7097809499635564322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 156
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.47216746, y: 0.9453145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335d88e8c691bd350800000000000000
+      internalID: 6042451279086146867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92214934676cb69a0800000000000000
+      internalID: -6238674647549472215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38e71b31b292a5b0800000000000000
+      internalID: -5358559316719179717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bdac5528369a7f0800000000000000
+      internalID: -600839663840994540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae6d00743ef5d6f0800000000000000
+      internalID: -660342269168226642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea844ff679495980800000000000000
+      internalID: -8549721642148525341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_74
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc05b63e1fd8fee00800000000000000
+      internalID: 1076234906006933711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7526129be93f89270800000000000000
+      internalID: 8257617779820159575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_76
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da404d740ac46a20800000000000000
+      internalID: 3054788567894084309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_77
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bdb9c886355d800800000000000000
+      internalID: 636506630843521884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_78
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07ed0ba56a365980800000000000000
+      internalID: -8550582634180385011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0707ee3c0261210800000000000000
+      internalID: 1303265168061395122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb04aeb908fe1ea40800000000000000
+      internalID: 5395857164217237691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff86e5718e8706ca0800000000000000
+      internalID: -6025683363201914625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_82
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bcf35054d13ef10800000000000000
+      internalID: 2297712417167100703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_83
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c21f1ad51078580800000000000000
+      internalID: -8825083443148673899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_84
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 141
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.94531554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1935dab925c47b8f0800000000000000
+      internalID: -524866913882516591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.44433543, y: 1.0009797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877b5c6b681ede490800000000000000
+      internalID: -7715262617907513480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 141
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.9174825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2393a2ee632e9eb0800000000000000
+      internalID: -4711289201027214549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_87
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 141
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.47216746, y: 1.0288117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1234f61a59592780800000000000000
+      internalID: -8707330161077112289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4218baecbb45d3e00800000000000000
+      internalID: 1026069455713304868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_89
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9167a2b04eaa10800000000000000
+      internalID: 1922545226990328913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24023f30e3307fe50800000000000000
+      internalID: 6842941723701878850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_91
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84bf1ef3f02a6cb0800000000000000
+      internalID: -4870043814735137649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d0fd01689a8ff50800000000000000
+      internalID: 6915463621101161857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e1467e61fb03c70800000000000000
+      internalID: 8948862564677459481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51956bccf7d11e670800000000000000
+      internalID: 8566160400967948565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_95
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c6c19650a5f3460800000000000000
+      internalID: 7223591306610371735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_96
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c51b780960072e0800000000000000
+      internalID: -2130195405924639661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_97
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1006151b5fdc97f90800000000000000
+      internalID: -6955301694371438591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a8af5c7821fa4f0800000000000000
+      internalID: -815412633179354593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af7284171b75c20800000000000000
+      internalID: 3195217560742656532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fba5ed58f8318f0800000000000000
+      internalID: -570954922622009562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_101
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98154b9b6affb14b0800000000000000
+      internalID: -5468496230966079095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_102
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2750a927589d920800000000000000
+      internalID: 3015588152758072046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_103
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3737f34168ee70a0800000000000000
+      internalID: -6881807676125792451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_104
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df511c01592c200800000000000000
+      internalID: 198885232749182240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_105
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a0d82ddee690f0800000000000000
+      internalID: -1110437624460303236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_106
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc6c7ae562f7ea0800000000000000
+      internalID: -5872933201084232903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_107
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7619406672934e760800000000000000
+      internalID: 7486171321974690151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_108
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac0981499804db0800000000000000
+      internalID: -4809693132871382296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc341d5d120cce480800000000000000
+      internalID: -8868502314645634100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e85131ea139effb0800000000000000
+      internalID: -4612087224724268830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015e7d4b12ed6d8f0800000000000000
+      internalID: -515980870938008304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_112
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9396917174f81da20800000000000000
+      internalID: 3085404755218491705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6435b054d5b020800000000000000
+      internalID: 2357023423100906816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_114
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95a10d4a2da1dc30800000000000000
+      internalID: 4382474309600388506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bdc86db919bc760800000000000000
+      internalID: 7479231704684354409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_116
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd75d09ebb68eae10800000000000000
+      internalID: 2210852608712464347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee2f598df88b9e60800000000000000
+      internalID: 7970114588075044576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ab6b82200d8e180800000000000000
+      internalID: -9085783540528399862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_119
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e03940ecd1fd6d0800000000000000
+      internalID: -2963617259109282253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_120
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5989ceb3e33d97ea0800000000000000
+      internalID: -5874431974681306987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_121
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a69ebf02e82a18a0800000000000000
+      internalID: -6333704974551312727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_122
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118bc3ac6db44b10800000000000000
+      internalID: 1964903611742519583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_123
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd99a1e143122870800000000000000
+      internalID: 8656502607439306229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_124
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934275595b73ce330800000000000000
+      internalID: 3741426643472163897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66429a28ec842f0800000000000000
+      internalID: -988313057629018408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_126
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3bcac7b311845e0800000000000000
+      internalID: -1925269893508451387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_127
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ee3c508248f89b0800000000000000
+      internalID: -5075692947592974696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_128
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bfdade6292734a0800000000000000
+      internalID: -6613772280597185649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_129
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c3a586b0267890800000000000000
+      internalID: -7460739764394408028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_130
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef4df279a0126c30800000000000000
+      internalID: 4351058509958041570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_131
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02596a8a084b1c00800000000000000
+      internalID: 872370162935353870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_132
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436ca550586561810800000000000000
+      internalID: 1735669835718379060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447b9d725cb68c480800000000000000
+      internalID: -8878728170839623868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_134
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4bd9954ce554160800000000000000
+      internalID: 7009112592482153686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_135
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb0e1ebec2cef4b0800000000000000
+      internalID: -5404668309589324869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_136
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be3422822caefc0800000000000000
+      internalID: -3464743485678818515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_137
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e3e0dd8d80c340800000000000000
+      internalID: 4882057636304119823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_138
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085de5f68ca241e50800000000000000
+      internalID: 6779090379449750912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_139
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347324beb4d7945c0800000000000000
+      internalID: -4230712609914865853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_140
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ba7501da35d690800000000000000
+      internalID: -7578086128566486886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_141
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0370f68a04e54190800000000000000
+      internalID: -7978720430952254706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_142
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56678500e117f8800800000000000000
+      internalID: 616836047641802341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0290eb05891e11a10800000000000000
+      internalID: 1878530563896117536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_144
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fdb301898edd200800000000000000
+      internalID: 206576897733943060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_145
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fbff1879d1f5a70800000000000000
+      internalID: 8817799131973009173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_146
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af02144e1b882760800000000000000
+      internalID: 7433344147082317737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_147
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adda40b9e4e1f260800000000000000
+      internalID: 7129731377440415145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da22a1aa64bbd610800000000000000
+      internalID: 1647108458805340889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_149
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e670e0db8bab00750800000000000000
+      internalID: 6269215983908292462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_150
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48043347dfc14af0800000000000000
+      internalID: -413821167288973234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_151
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba6f06dad192ff0800000000000000
+      internalID: -60484489499464716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_152
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0834432c59c9fcff0800000000000000
+      internalID: -13620106836556928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_153
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3d0a0d53994f50800000000000000
+      internalID: 6866181134712912764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_154
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b786c668661ac0e70800000000000000
+      internalID: 9082812010213435515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_155
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb74ede950a740b0800000000000000
+      internalID: -5744446491584070676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_156
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a1feacbd849d60800000000000000
+      internalID: 7896091888215763015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_157
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6317df9223855c90800000000000000
+      internalID: -7181689846038588564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_158
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9c5fa595246ee80800000000000000
+      internalID: -8149753524134753827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_159
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773733b91709a230800000000000000
+      internalID: 3650456779922814838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_160
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659730c6156948ed0800000000000000
+      internalID: -2412638223915058858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_161
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8c8d17ba2368870800000000000000
+      internalID: 8684684643361409244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_162
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5154af5b7d7f030800000000000000
+      internalID: 3528526009655956923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_163
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1945e14e4e55fd810800000000000000
+      internalID: 1792245618284844177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_164
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244ff5fb52e4fa9b0800000000000000
+      internalID: -5066745131737025470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_165
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b57b09efb68650800000000000000
+      internalID: 6234881741781578786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_166
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7541e25adaadb9440800000000000000
+      internalID: 4943785455304709207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_167
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2d64ac8918e15a0800000000000000
+      internalID: -6548654314921471295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_168
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b4958f2a359c460800000000000000
+      internalID: 7262427833528044432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_169
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e62cbed1067930800000000000000
+      internalID: 4140498963564781656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_170
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfcfe8023ef70350800000000000000
+      internalID: 5983030120836747206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_171
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed6a6418d4a19dd0800000000000000
+      internalID: -2481020671742022175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_172
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b6fb7d01756f930800000000000000
+      internalID: 4176621434283453247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallsAndFloorsTile(16x16)_173
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca0c58e71a7b3420800000000000000
+      internalID: 2610814652092517056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

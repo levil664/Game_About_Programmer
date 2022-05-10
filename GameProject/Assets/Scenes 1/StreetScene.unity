@@ -16568,7 +16568,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 435853557
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: 6
   m_Sprite: {fileID: 21300000, guid: b5e77102235f4fe4d9dd206441660ff1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16601,13 +16601,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966298764}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e5b2b1678cb6c64187792117cc1643a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   isStatic: 1
-  offset: 0
+  offset: 2
 --- !u!1 &1011584270
 GameObject:
   m_ObjectHideFlags: 0
@@ -44556,7 +44556,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 435853557
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: 6
   m_Sprite: {fileID: 5984732376192722820, guid: f01793577d3570642b67b1cbebde64ba, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
