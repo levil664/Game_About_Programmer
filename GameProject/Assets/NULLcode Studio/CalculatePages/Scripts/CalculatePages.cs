@@ -31,6 +31,7 @@ public class CalculatePages : MonoBehaviour
 
 	void SetPages()
 	{
+        print(quantityAvailableSentences);
 		leftPage.text = pagesList[pageCount];
 		rightPage.text = (pageCount + 1 > pagesList.Count - 1) ? string.Empty : pagesList[pageCount + 1];
 		LPN.text = (pageCount + 1).ToString();

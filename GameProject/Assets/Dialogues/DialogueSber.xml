@@ -7,7 +7,6 @@
       </answer>
       <answer tonode = "0">
         <text> Нет, обознался, извините. </text>
-        <offWindow>true</offWindow>
       </answer>
     </answers>
   </node>
@@ -183,21 +182,17 @@
     <answers>
       <answer tonode="0">
         <text> Спасибо большое за возможность! Я постараюсь усерднее работать, чтобы в следующий раз Вас не подвести. </text>
-        <offWindow>true</offWindow>
-      </answer>
-    </answers>
-  </node>
-  <node>
-    <npctext> Ты прекрасно справился, Саша! Наша компания готова взять тебя на стажировку! Поздравляю! </npctext>
-    <answers>
-      <answer tonode="0">
-        <text> Спасибо большое! Я готов приняться за работу с завтрашнего дня! </text>
-        <dialend>true</dialend>
-      </answer>
-      <answer>
-        <text> Я еще подумаю над вашим предложением. Скоро вернусь</text>
-        <offWindow>true</offWindow>
-      </answer>
+	      <dialend>true</dialend>
+	  </answer>
+  </answers>
+</node>
+<node>
+  <npctext> Ты прекрасно справился, Саша! Наша компания готова взять тебя на стажировку! Поздравляю! </npctext>
+  <answers>
+	  <answer tonode="0">
+		  <text> Спасибо большое! Я готов приняться за работу с завтрашнего дня! </text>
+			<dialend>true</dialend>
+	  </answer>
     </answers>
   </node>
 </dialogue>

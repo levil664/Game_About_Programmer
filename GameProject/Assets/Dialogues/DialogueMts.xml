@@ -7,7 +7,6 @@
       </answer>
       <answer tonode = "0">
         <text> Нет, обознался, извините. </text>
-        <offWindow>true</offWindow>
       </answer>
     </answers>
   </node>
@@ -172,7 +171,7 @@
     <answers>
       <answer tonode="0">
         <text> Спасибо большое за возможность! Я постараюсь усерднее работать, чтобы в следующий раз Вас не подвести. </text>
-        <offWindow>true</offWindow>
+	      <dialend>true</dialend>
       </answer>
     </answers>
   </node>
@@ -182,10 +181,6 @@
       <answer tonode="0">
         <text> Да, конечно! Очень жду завтрашний день! </text>
         <dialend>true</dialend>
-      </answer>
-      <answer>
-        <text> Я еще подумаю над вашим предложением. Скоро вернусь</text>
-        <offWindow>true</offWindow>
       </answer>
     </answers>
   </node>

@@ -7,7 +7,10 @@ using UnityEngine.UI;
 public class InstantiateDialogue : MonoBehaviour
 {
     public GameObject Window;
+    public GameObject windowHint;
+    public GameObject relevanceFlask;
 
+    public Text textHint;
     public Text text;
     public Text firstAnswer;
     public Text secondAnswer;
@@ -18,12 +21,12 @@ public class InstantiateDialogue : MonoBehaviour
     public List<string> rightAnswers;
     public List<int> rightAnswerCompany;
     public Sprite[] sprites;
-    public GameObject relevanceFlask;
 
     public int indexCompany;
     public int endDialogueIndex;
+    public int tempIndex = 12;
 
-    bool[] dialogueEnded = new bool[10];
+    public static bool[] dialogueEnded = new bool[12];
 
     public TextAsset ta;
 
@@ -49,26 +52,29 @@ public class InstantiateDialogue : MonoBehaviour
 
     void Start()
     {
-        secondButton.enabled = false;
-        thirdButton.enabled = false;
         Window.SetActive(false);
-
-        dialogue = Dialogue.Load(ta);
-        nd = dialogue.nodes;
-        text.text = nd[currentNode].Npctext;
-        firstAnswer.text = nd[currentNode].answers[currentNode].text;
+        windowHint.SetActive(false);
     }
 
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (dialogueEnded[indexCompany] == false)
         {
-            PlayerRemove.isAction = true;
+            tempIndex = indexCompany;
+
+            secondButton.enabled = false;
+            thirdButton.enabled = false;
+
+            dialogue = Dialogue.Load(ta);
+            nd = dialogue.nodes;
+            text.text = nd[currentNode].Npctext;
+            firstAnswer.text = nd[currentNode].answers[currentNode].text;
             
             firstButton.onClick.AddListener(but1);
             secondButton.onClick.AddListener(but2);
             thirdButton.onClick.AddListener(but3);
 
+            PlayerRemove.isAction = true;
             AnswerClicked(31);
             Window.SetActive(true);
         }
@@ -76,6 +82,7 @@ public class InstantiateDialogue : MonoBehaviour
 
     public void OnTriggerExit2D(Collider2D other)
     {
+        tempIndex = 12;
         Window.SetActive(false);
     }
 
@@ -103,19 +110,17 @@ public class InstantiateDialogue : MonoBehaviour
             currentNode = 0;
         else
         {
-            if (dialogue.nodes[currentNode].answers[numberOfButton].offWindow == "true")
-            {
-                PlayerRemove.isAction = false;
-                Window.SetActive(false);
-            }
-            else if (dialogue.nodes[currentNode].answers[numberOfButton].end == "true")
+            print(numberOfButton);
+            print(!dialogueEnded[indexCompany]);
+            if (!dialogueEnded[indexCompany] && dialogue.nodes[currentNode].answers[numberOfButton].end == "true")
             {
                 PlayerRemove.isAction = false;
                 dialogueEnded[indexCompany] = true;
                 Window.SetActive(false);
+                InterviewEnd();
             }
 
-            if (rightAnswers.Contains(dialogue.nodes[currentNode].answers[numberOfButton].text) && !dialogueEnded[indexCompany])
+            if (!dialogueEnded[indexCompany] && rightAnswers.Contains(dialogue.nodes[currentNode].answers[numberOfButton].text))
             {
                 rightAnswerCompany[indexCompany]++;
                 UpdateRelevance(rightAnswerCompany[indexCompany]);
@@ -155,5 +160,18 @@ public class InstantiateDialogue : MonoBehaviour
             thirdButton.enabled = false;
             thirdAnswer.text = "";
         }
+    }
+
+    public void InterviewEnd()
+    {
+        CalculatePages.quantityAvailableSentences += 5;
+        ChangeWindowStatus();
+        Invoke("ChangeWindowStatus", 14);
+    }
+
+    public void ChangeWindowStatus()
+    {
+        var isActive = windowHint.activeSelf;
+        windowHint.SetActive(!isActive);
     }
 }
