@@ -7,7 +7,7 @@ public class WindowHint : MonoBehaviour
     public Animator WindowHintAnimator;
     public static bool HintIsTaken = false;
 
-    private bool IsFirst = true;
+    public bool IsFirst = true;
 
     void CloseWindowHint() => WindowHintAnimator.SetBool("WindowHintOpen", false);
 

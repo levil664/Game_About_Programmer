@@ -117,7 +117,8 @@ public class InstantiateDialogue : MonoBehaviour
                 PlayerRemove.isAction = false;
                 dialogueEnded[indexCompany] = true;
                 Window.SetActive(false);
-                InterviewEnd();
+                if (endDialogueIndex == currentNode)
+                    InterviewEnd();
             }
 
             if (!dialogueEnded[indexCompany] && rightAnswers.Contains(dialogue.nodes[currentNode].answers[numberOfButton].text))
