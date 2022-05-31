@@ -19,6 +19,8 @@ public class CalculatePages : MonoBehaviour
     private int pageCount;
 
     public static int quantityAvailableSentences = 0;
+    public static int mtsBorder = 7;
+	public static int sberBorder = 12;
 
 	void Start()
 	{
@@ -31,7 +33,6 @@ public class CalculatePages : MonoBehaviour
 
 	void SetPages()
 	{
-        print(quantityAvailableSentences);
 		leftPage.text = pagesList[pageCount];
 		rightPage.text = (pageCount + 1 > pagesList.Count - 1) ? string.Empty : pagesList[pageCount + 1];
 		LPN.text = (pageCount + 1).ToString();

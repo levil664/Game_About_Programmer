@@ -28,6 +28,8 @@ public class InstantiateDialogue : MonoBehaviour
 
     public static bool[] dialogueEnded = new bool[12];
 
+    private bool hintIsWas;
+
     public TextAsset ta;
 
     [SerializeField]
@@ -69,7 +71,7 @@ public class InstantiateDialogue : MonoBehaviour
             nd = dialogue.nodes;
             text.text = nd[currentNode].Npctext;
             firstAnswer.text = nd[currentNode].answers[currentNode].text;
-            
+
             firstButton.onClick.AddListener(but1);
             secondButton.onClick.AddListener(but2);
             thirdButton.onClick.AddListener(but3);
@@ -110,15 +112,21 @@ public class InstantiateDialogue : MonoBehaviour
             currentNode = 0;
         else
         {
-            print(numberOfButton);
-            print(!dialogueEnded[indexCompany]);
             if (!dialogueEnded[indexCompany] && dialogue.nodes[currentNode].answers[numberOfButton].end == "true")
             {
                 PlayerRemove.isAction = false;
                 dialogueEnded[indexCompany] = true;
                 Window.SetActive(false);
-                if (endDialogueIndex == currentNode)
+                if (!hintIsWas && endDialogueIndex == currentNode)
                     InterviewEnd();
+            }
+
+            if (!dialogueEnded[indexCompany] && dialogue.nodes[currentNode].answers[numberOfButton].end == "false")
+            {
+                PlayerRemove.isAction = false;
+                Window.SetActive(false);
+                rightAnswerCompany[indexCompany] = 0;
+                UpdateRelevance(rightAnswerCompany[indexCompany]);
             }
 
             if (!dialogueEnded[indexCompany] && rightAnswers.Contains(dialogue.nodes[currentNode].answers[numberOfButton].text))
@@ -165,7 +173,15 @@ public class InstantiateDialogue : MonoBehaviour
 
     public void InterviewEnd()
     {
-        CalculatePages.quantityAvailableSentences += 5;
+        hintIsWas = true;
+        if (indexCompany == 0 && CalculatePages.quantityAvailableSentences <= CalculatePages.mtsBorder + 2)
+        {
+            CalculatePages.quantityAvailableSentences = CalculatePages.mtsBorder + 2;
+        }
+        if (indexCompany == 1 && CalculatePages.quantityAvailableSentences <= CalculatePages.sberBorder + 2)
+        {
+            CalculatePages.quantityAvailableSentences = CalculatePages.sberBorder + 2;
+        }
         ChangeWindowStatus();
         Invoke("ChangeWindowStatus", 14);
     }
