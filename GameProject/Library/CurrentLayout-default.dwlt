@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 817
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 12004, y: 14042}
   vertical: 1
-  controlID: 65
+  controlID: 92
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 221}
   m_MaxSize: {x: 12004, y: 4021}
   vertical: 0
-  controlID: 66
+  controlID: 93
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,8 +220,8 @@ MonoBehaviour:
     y: 0
     width: 350
     height: 496
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -282,23 +282,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 460a0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: fc74ffff72f9ffff8af9ffffc2faffff60fbffffda4f00001a600000ba6000002462000028620000b463000036380100
+      m_SelectedIDs: 86720000
+      m_LastClickedID: 29318
+      m_ExpandedIDs: 0accffff0cccffff16cfffff74d7ffffb2dcffffdcdcffff80f9ffff60fbffff5873000090740000fa740000e475000020760000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: window (1)
-        m_OriginalName: window (1)
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 24602
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -340,7 +340,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 251
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
@@ -383,22 +383,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Code
+    - Assets/NPC
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Code
+  - Assets/NPC
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GitHub\Game_About_Programmer\GameProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 74}
-    m_SelectedIDs: 064f0000
-    m_LastClickedID: 20230
-    m_ExpandedIDs: 00000000ee4e0000f04e0000f24e0000f44e000000ca9a3b
+    scrollPos: {x: 0, y: 190}
+    m_SelectedIDs: 0a500000
+    m_LastClickedID: 20490
+    m_ExpandedIDs: 00000000e84f0000ea4f0000ee4f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -414,7 +414,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 2}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -426,7 +426,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ee4e0000f04e0000f24e0000f44e0000
+    m_ExpandedIDs: 00000000e84f0000ea4f0000ec4f0000ee4f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -454,7 +454,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 487a0000d273000000000000
+    m_ExpandedInstanceIDs: 487a0000d27300000000000072520000687000000a5300006c700000f69000007470000070700000f0900000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -470,7 +470,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 2}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -478,10 +478,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 97}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 201
+  m_DirectoriesAreaWidth: 227
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -607,9 +607,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3341.5486, y: 535.71594, z: -228.3994}
+    m_Target: {x: 10.224512, y: 7.322648, z: -9.82446}
     speed: 2
-    m_Value: {x: 3341.5486, y: 535.71594, z: -228.3994}
+    m_Value: {x: 10.257155, y: 7.2989073, z: -9.797633}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -660,9 +660,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2392.0137
+    m_Target: 7.1166186
     speed: 2
-    m_Value: 2392.0137
+    m_Value: 7.4519567
   m_Ortho:
     m_Target: 1
     speed: 2
