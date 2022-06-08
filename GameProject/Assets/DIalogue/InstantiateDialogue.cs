@@ -125,6 +125,7 @@ public class InstantiateDialogue : MonoBehaviour
             {
                 PlayerRemove.isAction = false;
                 Window.SetActive(false);
+                dialogueEnded[indexCompany] = true;
                 rightAnswerCompany[indexCompany] = 0;
                 UpdateRelevance(rightAnswerCompany[indexCompany]);
             }

@@ -5,10 +5,6 @@
       <answer tonode = "1">
         <text> Здравствуйте! Да, я пришел на собеседование. Меня зовут Александр. </text>
       </answer>
-      <answer tonode = "0">
-        <text> Нет, обознался, извините. </text>
-	      <dialend>false</dialend>
-      </answer>
     </answers>
   </node>
   <node>
@@ -168,20 +164,20 @@
     </answers>
   </node>
   <node>
-    <npctext> Саша, к сожалению, я не могу взять тебя на стажировку. Подготовься еще немного и приходи в другой раз. Ты молодец и у тебя всё получится! </npctext>
+    <npctext> Саша, к сожалению, я не могу взять тебя на стажировку. Подготовься еще немного и приходи в другой раз, на следующем мероприятии «Время карьеры». </npctext>
     <answers>
       <answer tonode="0">
         <text> Спасибо большое за возможность! Я постараюсь работать усерднее. </text>
-	      <dialend>false</dialend>
-      </answer>
-    </answers>
-  </node>
-  <node>
-    <npctext> Вау! Ты отлично справился, Саша! Мы ждём тебя завтра утром, не опаздывай! </npctext>
-    <answers>
-      <answer tonode="0">
-        <text> Да, конечно! Очень жду завтрашний день! </text>
-        <dialend>true</dialend>
+	      <dialend>true</dialend>
+	  </answer>
+  </answers>
+</node>
+<node>
+  <npctext> Вау! Ты отлично справился, Саша! Мы ждём тебя завтра утром, не опаздывай! </npctext>
+  <answers>
+	  <answer tonode="0">
+		  <text> Да, конечно! Очень жду завтрашний день! </text>
+		  <dialend>true</dialend>
       </answer>
     </answers>
   </node>
