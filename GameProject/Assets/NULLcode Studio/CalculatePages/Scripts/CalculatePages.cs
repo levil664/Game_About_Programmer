@@ -21,6 +21,8 @@ public class CalculatePages : MonoBehaviour
     public static int quantityAvailableSentences = 0;
     public static int mtsBorder = 7;
 	public static int sberBorder = 12;
+    public static int vkBorder = 15;
+    public static int beelineBorder = 18;
 
 	void Start()
 	{

@@ -1,0 +1,191 @@
+﻿<dialogue>
+  <node>
+    <npctext> Привет! Меня зовут Женя. Я представитель компании Вконтакте! Хороший денёк не правда ли? </npctext>
+    <answers>
+      <answer tonode = "1">
+        <text> Добрый день, Меня зовут Александр! Да, Вы правы. Сегодня просто прекрасная погодка!  </text>
+      </answer>
+      <answer tonode = "1">
+        <text> Здравствуйте, я Александр. На самом деле денёк не лучший. Всюду лужи и грязь. </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> О! Так вы, наверное, пришли на собеседование? </npctext>
+    <answers>
+      <answer tonode = "2">
+        <text> Абсолютно верно! </text>
+      </answer>
+      <answer tonode = "0">
+        <text> Нет, просто проходил мимо. </text>
+	      <dialend>false</dialend>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Прекрасно! Если хотите, то мы можем начать.  </npctext>
+    <answers>
+      <answer tonode = "3">
+        <text> Да, я готов! Можем начать собеседование! </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как бы ты назвал свойство объекта сохранять значения всех параметров, характеризующих способность выполнять требуемые функции в заданных режимах и условиях применения? </npctext>
+    <answers>
+      <answer tonode = "4">
+        <text> Безопасность </text>
+      </answer>
+      <answer tonode = "4">
+        <text> Надёжность </text>
+      </answer>
+      <answer tonode = "4">
+        <text> Крепость </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как бы ты назвал конечное множество используемых для кодирования информации знаков? </npctext>
+    <answers>
+      <answer tonode = "5">
+        <text> Азбука </text>
+      </answer>
+      <answer tonode = "5">
+        <text> Алфавит </text>
+      </answer>
+      <answer tonode = "5">
+        <text> Символика </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как называют сведения независимо от формы их представления? </npctext>
+    <answers>
+      <answer tonode = "6">
+        <text> Информация </text>
+      </answer>
+      <answer tonode = "6">
+        <text> Информационная сеть </text>
+      </answer>
+      <answer tonode = "6">
+        <text> Файлы </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Что такое преобразование исходного текста в зашифрованный вид? </npctext>
+    <answers>
+      <answer tonode = "7">
+        <text> Шифрование </text>
+      </answer>
+      <answer tonode = "7">
+        <text> Кодирование </text>
+      </answer>
+      <answer tonode = "7">
+        <text> Конспирация </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как называют лицо, управляющее одним или несколькими субъектами и получающий информацию о состоянии системы через субъекты? </npctext>
+    <answers>
+      <answer tonode = "8">
+        <text> Субъект доступа </text>
+      </answer>
+      <answer tonode = "8">
+        <text> Администратор </text>
+      </answer>
+      <answer tonode = "8">
+        <text> Пользователь </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Что такое совокупность аппаратных и программных средств, представляющее поставляемое потребителю готовое к использованию средство? </npctext>
+    <answers>
+      <answer tonode = "9">
+        <text> Продукт информационной безопасности </text>
+      </answer>
+      <answer tonode = "9">
+        <text> Технологический заказ </text>
+      </answer>
+      <answer tonode = "9">
+        <text> Продукт информационных технологий </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как ты назовёшь документ, представляющий собой совокупность Задач защиты, функциональных требований, требований адекватности, общих спецификаций средств защиты и их обоснования? </npctext>
+    <answers>
+      <answer tonode = "10">
+        <text> Информация </text>
+      </answer>
+      <answer tonode = "10">
+        <text> Продукт защиты </text>
+      </answer>
+      <answer tonode = "10">
+        <text> Проект защиты </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Что такое обнаружение ошибок, которые находятся в процессе работы программы и блокируются? </npctext>
+    <answers>
+      <answer tonode = "11">
+        <text> Блокировка </text>
+      </answer>
+      <answer tonode = "11">
+        <text> Отказоустойчивость </text>
+      </answer>
+      <answer tonode = "11">
+        <text> Защита </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как бы ты назвал нарушителя, намеренно идущего на нарушение из корыстных побуждений? </npctext>
+    <answers>
+      <answer tonode = "12">
+        <text> Злоумышленник </text>
+      </answer>
+      <answer tonode = "12">
+        <text> Нарушитель </text>
+      </answer>
+      <answer tonode = "12">
+        <text> Мошенник </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как называется нормативный документ, который регламентирует все аспекты безопасности ИТ-продукта? </npctext>
+    <answers>
+      <answer tonode = "13">
+        <text> Конституция IT </text>
+      </answer>
+      <answer tonode = "13">
+        <text> Регламент информационной безопасности </text>
+      </answer>
+      <answer tonode = "13">
+        <text> Профиль защиты </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Александр, к сожалению, с вашими знаниями мы пока не можем взять Вас к нам на стажировку. Не отчаивайтесь у Вас всё получится. Приходите в следующий раз! </npctext>
+    <answers>
+      <answer tonode="0">
+        <text> Ну, ничего. В следующий раз обязательно получится, ведь я подготовлюсь намного лучше! </text>
+	      <dialend>false</dialend>
+	  </answer>
+  </answers>
+</node>
+<node>
+  <npctext> Я поздравляю тебя, Саша! Ты большой молодец! Мы ждём тебя в нашем офисе уже завтра! </npctext>
+  <answers>
+	  <answer tonode="0">
+		  <text> Ура! С радостью, приму Ваше приглашение в команду! Увидимся завтра! </text>
+			<dialend>true</dialend>
+	  </answer>
+    </answers>
+  </node>
+</dialogue>

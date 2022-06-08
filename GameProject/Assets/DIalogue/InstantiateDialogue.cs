@@ -182,6 +182,15 @@ public class InstantiateDialogue : MonoBehaviour
         {
             CalculatePages.quantityAvailableSentences = CalculatePages.sberBorder + 2;
         }
+        if (indexCompany == 2 && CalculatePages.quantityAvailableSentences <= CalculatePages.vkBorder + 2)
+        {
+            CalculatePages.quantityAvailableSentences = CalculatePages.vkBorder + 2;
+        }
+        if (indexCompany == 3 && CalculatePages.quantityAvailableSentences <= CalculatePages.beelineBorder + 2)
+        {
+            CalculatePages.quantityAvailableSentences = CalculatePages.beelineBorder + 2;
+        }
+
         ChangeWindowStatus();
         Invoke("ChangeWindowStatus", 14);
     }
