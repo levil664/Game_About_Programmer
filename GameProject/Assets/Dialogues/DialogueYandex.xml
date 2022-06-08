@@ -1,0 +1,191 @@
+﻿<dialogue>
+  <node>
+    <npctext> О! Привет! Меня зовут Владимир. Я представитель компании Яндекс! Как дела? </npctext>
+    <answers>
+      <answer tonode = "1">
+        <text> Добрый день! Я Александр. Всё супер! Настроение огонь! </text>
+      </answer>
+      <answer tonode = "1">
+        <text> Привет! Я Александр. Не выспался. Никакого настроения нет. </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> О! Так вы, наверное, пришли на собеседование? </npctext>
+    <answers>
+      <answer tonode = "2">
+        <text> Абсолютно верно! </text>
+      </answer>
+      <answer tonode = "0">
+        <text> Нет, просто проходил мимо. </text>
+	      <dialend>false</dialend>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Прекрасно! Если хотите, то мы можем начать.  </npctext>
+    <answers>
+      <answer tonode = "3">
+        <text> Да, я готов! Можем начать собеседование! </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Начнём с лёгкого. Как ты думаешь, что такое возможность получения информации и ее использования?  </npctext>
+    <answers>
+      <answer tonode = "4">
+        <text> Предоставление информации </text>
+      </answer>
+      <answer tonode = "4">
+        <text> Доступ к информации </text>
+      </answer>
+      <answer tonode = "4">
+        <text> Информация </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Какие прагматические функции ты знаешь? </npctext>
+    <answers>
+      <answer tonode = "5">
+        <text> Важность, Полнота, Достоверность </text>
+      </answer>
+      <answer tonode = "5">
+        <text> Своевременность, Компактность, Достоверность </text>
+      </answer>
+      <answer tonode = "5">
+        <text> Целесообразность, Оправданность, Важность </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Что за средства представляют собой программное обеспечение, специально предназначенное для выполнения функций защиты информации? </npctext>
+    <answers>
+      <answer tonode = "6">
+        <text> Программные средства </text>
+      </answer>
+      <answer tonode = "6">
+        <text> Организационные средства </text>
+      </answer>
+      <answer tonode = "6">
+        <text> Законодательные средства </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как называют деятельность, направленную на предотвращение воздействия на защищаемую информацию, приводящего к ее искажению / уничтожению? </npctext>
+    <answers>
+      <answer tonode = "7">
+        <text> Защита информации от утечки </text>
+      </answer>
+      <answer tonode = "7">
+        <text> Защита информации от непреднамеренного воздействия </text>
+      </answer>
+      <answer tonode = "7">
+        <text> Защита информации от несанкционированного воздействия </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Ещё вопрос из этой темы. Какие средства реализуются в виде электрических, электромеханических и электронных устройств? </npctext>
+    <answers>
+      <answer tonode = "8">
+        <text> Программные средства </text>
+      </answer>
+      <answer tonode = "8">
+        <text> Законодательные средства </text>
+      </answer>
+      <answer tonode = "8">
+        <text> Технические средства </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как называют формальное выражение политики безопасности? </npctext>
+    <answers>
+      <answer tonode = "9">
+        <text> Модель безопасности </text>
+      </answer>
+      <answer tonode = "9">
+        <text> Макет безопасности </text>
+      </answer>
+      <answer tonode = "9">
+        <text> Чертёж безопасности </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Какие существуют критерии Оранжевой книги? </npctext>
+    <answers>
+      <answer tonode = "10">
+        <text> Аудит, Политика безопасности, Метки </text>
+      </answer>
+      <answer tonode = "10">
+        <text> Корректность, Аудит, Политика безопасности </text>
+      </answer>
+      <answer tonode = "10">
+        <text> Корректность, Метки, Непрерывность защиты </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Чья задача состоит в том, чтобы рассматривать квалификацию уровня безопасности ИТ-продукта как метод определения соответствия ИТ-продукта их запросам? </npctext>
+    <answers>
+      <answer tonode = "11">
+        <text> Эксперт </text>
+      </answer>
+      <answer tonode = "11">
+        <text> Потребитель </text>
+      </answer>
+      <answer tonode = "11">
+        <text> Разработчик </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Сколько групп компьютерной безопасности существует? </npctext>
+    <answers>
+      <answer tonode = "12">
+        <text> 11 </text>
+      </answer>
+      <answer tonode = "12">
+        <text> 10 </text>
+      </answer>
+      <answer tonode = "12">
+        <text> 4 </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Какие средства относятся к криптографической защите информации?  </npctext>
+    <answers>
+      <answer tonode = "13">
+        <text> Аппаратные, Программно-аппаратные, Программные </text>
+      </answer>
+      <answer tonode = "13">
+        <text> Аппаратные, Программные, Мобильные </text>
+      </answer>
+      <answer tonode = "13">
+        <text> Механические, Программные, Программно-аппаратные </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Александр, к сожалению, с вашими знаниями мы пока не можем взять Вас к нам на стажировку. Не отчаивайтесь у Вас всё получится. Приходите в следующий раз! </npctext>
+    <answers>
+      <answer tonode="0">
+        <text> Ну, ничего. В следующий раз обязательно получится, ведь я подготовлюсь намного лучше! </text>
+	      <dialend>false</dialend>
+	  </answer>
+  </answers>
+</node>
+<node>
+  <npctext> Я поздравляю тебя, Саша! Ты большой молодец! Мы ждём тебя в нашем офисе уже завтра! </npctext>
+  <answers>
+	  <answer tonode="0">
+		  <text> Ура! С радостью, приму Ваше приглашение в команду! Увидимся завтра! </text>
+			<dialend>true</dialend>
+	  </answer>
+    </answers>
+  </node>
+</dialogue>

@@ -1,0 +1,191 @@
+﻿<dialogue>
+  <node>
+    <npctext> Добрый день! Меня зовут Сергей. Я представитель компании Билайн. Как настроение? </npctext>
+    <answers>
+      <answer tonode = "1">
+        <text> Добрый день! Я Александр. Всё отлично! Настроение прекрасное! На улице такое чудесно солнышко! </text>
+      </answer>
+      <answer tonode = "1">
+        <text> Привет! Я Александр. Да, какое там настроение? Нету его! Ужасная погода! </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Ты наверное студент? </npctext>
+    <answers>
+      <answer tonode = "2">
+        <text> Да. Я учусь в УРФУ на направлении «Информационная безопасность». </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Отилчно! Так вы, наверное, пришли на собеседование? </npctext>
+    <answers>
+      <answer tonode = "3">
+          <text> Да, я готов! Вперёд!!! </text>
+      </answer>
+	    <answer tonode = "0">
+		    <text> Я ещё немного подготовлюсь. Скоро вернусь! </text>
+		    <dialend>false</dialend>
+	    </answer>
+	</answers>
+  </node>
+  <node>
+    <npctext> Как называются процессы, методы поиска, распространения информации и способы осуществления таких процессов и методов? </npctext>
+    <answers>
+      <answer tonode = "4">
+        <text> Информация </text>
+      </answer>
+      <answer tonode = "4">
+        <text> Информационные технологии </text>
+      </answer>
+      <answer tonode = "4">
+          <text> Распространение информации </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Что такое TCB (Trusted Computing Base)? </npctext>
+    <answers>
+      <answer tonode="5">
+        <text> Модель безопасности </text>
+      </answer>
+      <answer tonode="5">
+        <text> Политика безопасности </text>
+      </answer>
+      <answer tonode="5">
+        <text> Монитор безопасности </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Какие уровни представления информации ты знаешь? </npctext>
+    <answers>
+      <answer tonode="6">
+        <text> Уровень носителей, Семантический уровень, Ситуационный уровень </text>
+      </answer>
+      <answer tonode="6">
+        <text> Логический уровень, Синтаксический уровень, Уровень носителей </text>
+      </answer>
+      <answer tonode="6">
+        <text> Морфологический уровень, Логический уровень, Семантический уровень </text>
+      </answer> 
+    </answers>
+  </node>
+  <node>
+    <npctext> Каким выражением можно аппроксимировать старение информации? </npctext>
+    <answers>
+      <answer tonode="7">
+        <text> C0(t) = C0 exp (-2.3t/tж.ц) </text>
+      </answer>
+      <answer tonode="7">
+        <text> C0(t) = C0 exp (2.3t/tж.ц) </text>
+      </answer>
+      <answer tonode="7">
+        <text> K0(t) = K0 exp (-2.3t/tж.ц) </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Какие прагматические функции ты знаешь? </npctext>
+    <answers>
+      <answer tonode="8">
+        <text> Важность, Полнота, Достоверность </text>
+      </answer>
+      <answer tonode="8">
+        <text> Своевременность, Компактность, Достоверность </text>
+      </answer>
+      <answer tonode="8">
+        <text> Целесообразность, Оправданность, Важность </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Ещё вопрос из этой темы. Как называется характеристика шифра, определяющая его стойкость к дешифрованию без знания ключа? </npctext>
+    <answers>
+      <answer tonode="9">
+        <text> Ключ </text>
+      </answer>
+      <answer tonode="9">
+        <text> Алфавит </text>
+      </answer>
+      <answer tonode="9">
+        <text> Криптостойкость </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Чья задача состоит в том, чтобы использовать документ в качестве основных критериев определения соответствия средств защиты ИТ-продукта требованиям, предъявляемым к нему потребителями? </npctext>
+    <answers>
+      <answer tonode="10">
+        <text> Эксперты по квалификации </text>
+      </answer>
+      <answer tonode="10">
+        <text> Эксперты по безопасности </text>
+      </answer>
+      <answer tonode="10">
+        <text> Потребители </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как называется характеристика информации, указывающая на необходимость введения ограничений на круг субъектов, имеющих доступ к данной информации? </npctext>
+    <answers>
+      <answer tonode="11">
+        <text> Ценность </text>
+      </answer>
+      <answer tonode="11">
+        <text> Секретность </text>
+      </answer>
+      <answer tonode="11">
+        <text> Целостность </text>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Как называются электромагнитные и акустические поля? </npctext>
+    <answers>
+      <answer tonode="12">
+        <text> Вещественные носители </text>
+      </answer>
+      <answer tonode="12">
+        <text> Энергетические носители </text>
+      </answer>
+      <answer tonode="12">
+        <text> Материальные носители </text>
+      </answer>
+    </answers>
+  </node>
+	<node>
+		<npctext> Какое свойство информации означает, что данные существуют в неизменном виде и являются достоверными? </npctext>
+		<answers>
+			<answer tonode="7">
+				<text> Достоверность </text>
+			</answer>
+			<answer tonode="7">
+				<text> Полнота </text>
+			</answer>
+			<answer tonode="7">
+				<text> Целостность </text>
+			</answer>
+		</answers>
+	</node>
+	<node>
+    <npctext> Извините, Александр, но у Вас недостаточно знаний, чтобы работать с нами. Приходите в другой раз! Мы Вас обязательно выслушаем! </npctext>
+    <answers>
+      <answer tonode="0">
+        <text> Да, я понимаю... Но не нужно унывать! Я обязательно справлюсь! </text>
+	      <dialend>false</dialend>
+      </answer>
+    </answers>
+  </node>
+  <node>
+    <npctext> Браво, Александр! Ты прекрасно справился! Я беру тебя на стажировку в Билайн! </npctext>
+    <answers>
+      <answer tonode="0">
+        <text> Отлично! Я знал, что у меня всё получится! Ждите меня завтра утром! </text>
+        <dialend>true</dialend>
+      </answer>
+    </answers>
+  </node>
+</dialogue>
