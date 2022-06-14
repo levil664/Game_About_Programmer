@@ -171,7 +171,7 @@
     <answers>
       <answer tonode="0">
         <text> Да, я понимаю... Но не нужно унывать! Я обязательно справлюсь! </text>
-	      <dialend>true</dialend>
+	      <dialend>false</dialend>
       </answer>
     </answers>
   </node>

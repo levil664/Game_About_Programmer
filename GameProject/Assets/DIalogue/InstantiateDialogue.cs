@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class InstantiateDialogue : MonoBehaviour
 {
     public GameObject Window;
     public GameObject windowHint;
+    public GameObject windowHintFalse;
     public GameObject relevanceFlask;
 
     public Text textHint;
@@ -27,6 +29,7 @@ public class InstantiateDialogue : MonoBehaviour
     public int tempIndex = 12;
 
     public static bool[] dialogueEnded = new bool[12];
+    public static bool lastCompanyCompleted;
 
     private bool hintIsWas;
 
@@ -56,6 +59,7 @@ public class InstantiateDialogue : MonoBehaviour
     {
         Window.SetActive(false);
         windowHint.SetActive(false);
+        windowHintFalse.SetActive(false);
     }
 
     public void OnTriggerEnter2D(Collider2D other)
@@ -117,17 +121,31 @@ public class InstantiateDialogue : MonoBehaviour
                 PlayerRemove.isAction = false;
                 dialogueEnded[indexCompany] = true;
                 Window.SetActive(false);
-                if (!hintIsWas && endDialogueIndex == currentNode)
-                    InterviewEnd();
+                if (indexCompany == 4)
+                {
+                    lastCompanyCompleted = true;
+                    SceneManager.LoadScene("End");
+                }
+                else if (!hintIsWas && endDialogueIndex == currentNode)
+                    InterviewEnd(windowHint);
+                
             }
 
             if (!dialogueEnded[indexCompany] && dialogue.nodes[currentNode].answers[numberOfButton].end == "false")
             {
+
                 PlayerRemove.isAction = false;
                 Window.SetActive(false);
                 dialogueEnded[indexCompany] = true;
                 rightAnswerCompany[indexCompany] = 0;
                 UpdateRelevance(rightAnswerCompany[indexCompany]);
+                if (indexCompany == 4)
+                {
+                    lastCompanyCompleted = false;
+                    SceneManager.LoadScene("End");
+                }
+                else
+                    InterviewEnd(windowHintFalse);
             }
 
             if (!dialogueEnded[indexCompany] && rightAnswers.Contains(dialogue.nodes[currentNode].answers[numberOfButton].text))
@@ -172,33 +190,35 @@ public class InstantiateDialogue : MonoBehaviour
         }
     }
 
-    public void InterviewEnd()
+    public void InterviewEnd(GameObject windowInteview)
     {
-        hintIsWas = true;
-        if (indexCompany == 0 && CalculatePages.quantityAvailableSentences <= CalculatePages.mtsBorder + 2)
+        if (windowInteview == windowHint)
         {
-            CalculatePages.quantityAvailableSentences = CalculatePages.mtsBorder + 2;
+            hintIsWas = true;
+            if (indexCompany == 0 && CalculatePages.quantityAvailableSentences <= CalculatePages.mtsBorder + 2)
+            {
+                CalculatePages.quantityAvailableSentences = CalculatePages.mtsBorder + 2;
+            }
+            if (indexCompany == 1 && CalculatePages.quantityAvailableSentences <= CalculatePages.sberBorder + 2)
+            {
+                CalculatePages.quantityAvailableSentences = CalculatePages.sberBorder + 2;
+            }
+            if (indexCompany == 2 && CalculatePages.quantityAvailableSentences <= CalculatePages.vkBorder + 2)
+            {
+                CalculatePages.quantityAvailableSentences = CalculatePages.vkBorder + 2;
+            }
+            if (indexCompany == 3 && CalculatePages.quantityAvailableSentences <= CalculatePages.beelineBorder + 2)
+            {
+                CalculatePages.quantityAvailableSentences = CalculatePages.beelineBorder + 2;
+            }
         }
-        if (indexCompany == 1 && CalculatePages.quantityAvailableSentences <= CalculatePages.sberBorder + 2)
-        {
-            CalculatePages.quantityAvailableSentences = CalculatePages.sberBorder + 2;
-        }
-        if (indexCompany == 2 && CalculatePages.quantityAvailableSentences <= CalculatePages.vkBorder + 2)
-        {
-            CalculatePages.quantityAvailableSentences = CalculatePages.vkBorder + 2;
-        }
-        if (indexCompany == 3 && CalculatePages.quantityAvailableSentences <= CalculatePages.beelineBorder + 2)
-        {
-            CalculatePages.quantityAvailableSentences = CalculatePages.beelineBorder + 2;
-        }
-
-        ChangeWindowStatus();
+        ChangeWindowStatus(windowInteview);
         Invoke("ChangeWindowStatus", 14);
     }
 
-    public void ChangeWindowStatus()
+    public void ChangeWindowStatus(GameObject windowInteview)
     {
-        var isActive = windowHint.activeSelf;
-        windowHint.SetActive(!isActive);
+        var isActive = windowInteview.activeSelf;
+        windowInteview.SetActive(!isActive);
     }
 }

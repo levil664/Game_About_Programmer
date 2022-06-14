@@ -168,7 +168,7 @@
     <answers>
       <answer tonode="0">
         <text> Спасибо большое за возможность! Я постараюсь работать усерднее. </text>
-	      <dialend>true</dialend>
+	      <dialend>false</dialend>
 	  </answer>
   </answers>
 </node>

@@ -171,7 +171,7 @@
     <answers>
       <answer tonode="0">
         <text> Ну, ничего. В следующий раз обязательно получится, ведь я подготовлюсь намного лучше! </text>
-	      <dialend>true</dialend>
+	      <dialend>false</dialend>
 	  </answer>
   </answers>
 </node>
